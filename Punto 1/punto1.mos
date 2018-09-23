@@ -1,0 +1,77 @@
+!@encoding CP1252
+model ModelName
+uses "mmxprs", "mmsystem"; !gain access to the Xpress-Optimizer solver
+
+
+!sample declarations section
+declarations
+	N: set of integer
+	
+	b: array(N) of integer
+	c: dynamic array(N,N) of integer
+	
+	x: dynamic array(N,N) of mpvar
+end-declarations
+
+procedure readJ(j:string, fila:integer, columna:integer)
+	if not(j ="MA" or j = "0" or fila<1 or columna<1) then
+		create(x(fila,columna))		
+	end-if
+	
+end-procedure
+procedure readCost(j:string, fila:integer, columna:integer)
+	if not(j ="MC" or j = "0" or fila<1 or columna<1) then
+		writeln(j,",", fila,",", columna)	
+		c(fila,columna):=parseint(j)
+	end-if
+	
+end-procedure
+
+
+procedure initialize
+	!Matriz adyacencia
+	fopen("MASINVACIO.txt",F_INPUT)
+		j:=""
+		contadorF:=0
+		contadorC:=-1
+		while(not iseof) do
+			read(j, " ")
+			contadorC+=1
+			if contadorC > 1316 then
+				contadorC:=0
+				contadorF+=1
+			end-if
+			readJ(j,contadorF,contadorC)
+		end-do
+	fclose(F_INPUT)
+	!Matriz costos
+	fopen("MCSINVACIO.txt",F_INPUT)
+		j:=""
+		contadorF:=0
+		contadorC:=-1
+		while(not iseof) do
+			read(j, " ")
+			contadorC+=1
+			if contadorC > 1316 then
+				contadorC:=0
+				contadorF+=1
+			end-if
+			readCost(j,contadorF,contadorC)
+		end-do
+	fclose(F_INPUT)
+end-procedure
+
+initialize
+
+!Restriccion de balance
+forall(i in N)do
+	sum(j in N)x(i,j) - sum(j in N)x(j,i) = b(i)
+end-do
+
+
+
+FO:=sum(i,j in N)c(i,j)*x(i,j)
+
+minimize(FO)
+
+end-model
