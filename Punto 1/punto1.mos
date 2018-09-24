@@ -65,7 +65,16 @@ procedure initialize
 			readCost(j,contadorF,contadorC)
 		end-do
 	fclose(F_INPUT)
-	inicializarBi(42,7)
+	inicio:=0
+	fin:=0
+	fopen("b.txt",F_INPUT)
+		j:=""
+		read(j, "inicio,")
+		inicio:=parseint(j,8)
+		readln(j, "final,")
+		fin:=parseint(j,7)
+	fclose(F_INPUT)
+	inicializarBi(inicio,fin)
 end-procedure
 
 
