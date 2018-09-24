@@ -13,6 +13,14 @@ declarations
 	x: dynamic array(N,N) of mpvar
 end-declarations
 
+procedure inicializarBi(inicio:integer, final:integer)
+	forall( i in N | i <> inicio and i<> final) do
+		b(i):=0
+	end-do
+	b(inicio):=1
+	b(final):=-1
+end-procedure
+
 procedure readJ(j:string, fila:integer, columna:integer)
 	if not(j ="MA" or j = "0" or fila<1 or columna<1) then
 		create(x(fila,columna))		
@@ -21,10 +29,8 @@ procedure readJ(j:string, fila:integer, columna:integer)
 end-procedure
 procedure readCost(j:string, fila:integer, columna:integer)
 	if not(j ="MC" or j = "0" or fila<1 or columna<1) then
-		writeln(j,",", fila,",", columna)	
-		c(fila,columna):=parseint(j)
+		c(fila,columna):=parseint(j,1)
 	end-if
-	
 end-procedure
 
 
@@ -59,7 +65,9 @@ procedure initialize
 			readCost(j,contadorF,contadorC)
 		end-do
 	fclose(F_INPUT)
+	inicializarBi(42,7)
 end-procedure
+
 
 initialize
 
