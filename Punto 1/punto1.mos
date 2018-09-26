@@ -36,14 +36,14 @@ end-procedure
 
 procedure initialize
 	!Matriz adyacencia
-	fopen("MASINVACIO.txt",F_INPUT)
+	fopen("MA.txt",F_INPUT)
 		j:=""
 		contadorF:=0
 		contadorC:=-1
 		while(not iseof) do
 			read(j, " ")
 			contadorC+=1
-			if contadorC > 1316 then
+			if contadorC > 1377 then
 				contadorC:=0
 				contadorF+=1
 			end-if
@@ -51,14 +51,14 @@ procedure initialize
 		end-do
 	fclose(F_INPUT)
 	!Matriz costos
-	fopen("MCSINVACIO.txt",F_INPUT)
+	fopen("MC.txt",F_INPUT)
 		j:=""
 		contadorF:=0
 		contadorC:=-1
 		while(not iseof) do
 			read(j, " ")
 			contadorC+=1
-			if contadorC > 1316 then
+			if contadorC > 1377 then
 				contadorC:=0
 				contadorF+=1
 			end-if

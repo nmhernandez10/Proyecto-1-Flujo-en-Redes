@@ -19,6 +19,7 @@ Mv:real
 Mt:real
 Cm:real
 
+b: array(N) of integer
 
 !Variables de decision
 x: dynamic array (N,N) of mpvar
@@ -43,5 +44,11 @@ end-procedure
 
 
 initialize 
+
+!Restriccion balance
+forall(i in N) do
+	sum(j in N | exists(x(i,j)))x(i,j) -sum(j in N | exists(x(j,i)))x(j,i) = b(i)
+end-do
+
 
 end-model
