@@ -231,8 +231,8 @@ public class Solucion2 {
 
 	public static void imprimirEnArchivo()
 	{
-		String file ="./data/costos.txt";
-		String fileAd = "./data/adyacencias.txt";
+		String file ="./data/xpress/costos.txt";
+		String fileAd = "./data/xpress/adyacencias.txt";
 		try {
 			BufferedWriter bw = new BufferedWriter(new FileWriter(file));
 			BufferedWriter bwA = new BufferedWriter(new FileWriter(fileAd));
