@@ -6,9 +6,10 @@ uses "mmxprs", "mmsystem"; !gain access to the Xpress-Optimizer solver
 !sample declarations section
 declarations
 	N: set of integer
+	
 	b: array(N) of integer
 	c: dynamic array(N,N) of integer
-	NumARuta: dynamic array(N,1..4) of string
+	u: dynamic array(N,N) of integer
 	x: dynamic array(N,N) of mpvar
 end-declarations
 
@@ -16,8 +17,47 @@ procedure inicializarBi(inicio:integer, final:integer)
 	forall( i in N | i <> inicio and i<> final) do
 		b(i):=0
 	end-do
-	b(inicio):=1
-	b(final):=-1
+	b(inicio):=0
+	b(final):=0
+	
+	create(x(final,inicio))
+	c(final,inicio):= -1;
+	u(final,inicio):=999999
+	
+	!create(x(689,3))
+	!c(689,3):= -1;
+	
+	!u(689,3):=999999
+	!create(x(612,3))
+	!c(612,3):= -1;
+	
+	!u(612,3):=999999
+	!create(x(516,3))
+	!c(516,3):= -1;
+	
+	!u(516,3):=999999
+	!create(x(531,3))
+	!c(531,3):= -1;
+	
+	!u(531,3):=999999
+	!create(x(859,3))
+	!c(859,3):= -1;
+	
+	!u(859,3):=999999
+	!create(x(836,3))
+	!c(836,3):= -1;
+	
+	!u(836,3):=999999
+	
+	!create(x(1083,3))
+	!c(1083,3):= -1;
+	
+	!u(1083,3):=999999
+	
+	!create(x(1049,3))
+	!c(1049,3):= -1;
+	!u(1049,3):=999999
+	
 end-procedure
 
 procedure readJ(j:string, fila:integer, columna:integer)
@@ -29,35 +69,12 @@ end-procedure
 procedure readCost(j:string, fila:integer, columna:integer)
 	if not(j ="MC" or fila<1 or columna<1) then
 		if(exists(x(fila,columna))) then
-			c(fila,columna):=parseint(j,1)
+			c(fila,columna):=0
+			u(fila,columna):=70
 		end-if
 	end-if
 end-procedure
 
-procedure asignarRuta(fila:integer,columna:integer,strin:string)
-	NumARuta(fila,columna-2):=strin
-end-procedure
-
-procedure leerNumARuta
-	!Matriz adyacencia
-	fopen("Referencias.txt",F_INPUT)
-		j:=""
-		contadorF:=0
-		contadorC:=0
-		while(not iseof) do
-			read(j, "\t")
-			contadorC+=1
-			if contadorF>0 and contadorC>2 and contadorC<7 then
-				asignarRuta(contadorF,contadorC,j)
-			end-if
-			if contadorC > 5 then
-				contadorC:=0
-				contadorF+=1
-			end-if
-			
-		end-do
-	fclose(F_INPUT)
-end-procedure
 
 procedure initialize
 	!Matriz adyacencia
@@ -68,7 +85,7 @@ procedure initialize
 		while(not iseof) do
 			read(j, " ")
 			contadorC+=1
-			if contadorC > 1426 then
+			if contadorC > 1377 then
 				contadorC:=0
 				contadorF+=1
 			end-if
@@ -83,7 +100,7 @@ procedure initialize
 		while(not iseof) do
 			read(j, " ")
 			contadorC+=1
-			if contadorC > 1426 then
+			if contadorC > 1377 then
 				contadorC:=0
 				contadorF+=1
 			end-if
@@ -100,44 +117,23 @@ procedure initialize
 		fin:=parseint(j,7)
 	fclose(F_INPUT)
 	inicializarBi(inicio,fin)
-	leerNumARuta
 end-procedure
 
 
-
-
-
 initialize
-
 
 !Restriccion de balance
 forall(i in N)do
 	sum(j in N)x(i,j) - sum(j in N)x(j,i) = b(i)
 end-do
 
-
+!restriccion 
+forall(i,j in N |exists(x(i,j)))do
+	x(i,j) <=u(i,j)
+end-do
 
 FO:=sum(i,j in N)c(i,j)*x(i,j)
 
 minimize(FO)
-
-
-
- procedure imprimirResultados
- 	fopen("Ruta más corta.txt", F_OUTPUT)
- 	forall(i,j in N | exists(x(i,j)))do
- 		if j< 1253 or j>1317 then
- 			if j<1378 then
- 				if getsol(x(i,j))>0 then
- 					writeln("Pasa por estación ",NumARuta(j,1)," a las ",NumARuta(j,2)," ",NumARuta(j,3), " tomando la ruta ",NumARuta(j,4))
- 				end-if
- 			end-if
- 		end-if
- 	end-do
- 	writeln("Este recorrido le toma un total de ", FO.sol, " minutos")
- 	fclose(F_OUTPUT)
- end-procedure
- 
-imprimirResultados
 
 end-model

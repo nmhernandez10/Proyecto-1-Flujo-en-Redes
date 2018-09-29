@@ -1,4 +1,4 @@
-Fila	Nodo	Estación	Hora	Ruta
+Fila	Nodo	Estación	Hora	M	Ruta
 1	1	Li-Ka-Shing-Center-(Campus-Dr) 	7:00 AM	1050-Arastradero
 2	2	Y2E2-(Via-Ortega) 	7:02 AM	1050-Arastradero
 3	3	Main-Quad-(Memorial-Church)	7:04 AM	1050-Arastradero
