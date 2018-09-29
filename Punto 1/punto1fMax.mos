@@ -6,7 +6,7 @@ uses "mmxprs", "mmsystem"; !gain access to the Xpress-Optimizer solver
 !sample declarations section
 declarations
 	N: set of integer
-	
+	NumARuta: dynamic array(N,1..4) of string
 	b: array(N) of integer
 	c: dynamic array(N,N) of integer
 	u: dynamic array(N,N) of integer
@@ -75,6 +75,30 @@ procedure readCost(j:string, fila:integer, columna:integer)
 	end-if
 end-procedure
 
+procedure asignarRuta(fila:integer,columna:integer,strin:string)
+	NumARuta(fila,columna-2):=strin
+end-procedure
+
+procedure leerNumARuta
+	!Matriz adyacencia
+	fopen("Referencias.txt",F_INPUT)
+		j:=""
+		contadorF:=0
+		contadorC:=0
+		while(not iseof) do
+			read(j, "\t")
+			contadorC+=1
+			if contadorF>0 and contadorC>2 and contadorC<7 then
+				asignarRuta(contadorF,contadorC,j)
+			end-if
+			if contadorC > 5 then
+				contadorC:=0
+				contadorF+=1
+			end-if
+			
+		end-do
+	fclose(F_INPUT)
+end-procedure
 
 procedure initialize
 	!Matriz adyacencia
@@ -117,6 +141,7 @@ procedure initialize
 		fin:=parseint(j,7)
 	fclose(F_INPUT)
 	inicializarBi(inicio,fin)
+	leerNumARuta
 end-procedure
 
 
@@ -135,5 +160,23 @@ end-do
 FO:=sum(i,j in N)c(i,j)*x(i,j)
 
 minimize(FO)
+
+
+ procedure imprimirResultados
+ 	fopen("Flujo máximo.txt", F_OUTPUT)
+ 	forall(i,j in N | exists(x(i,j)))do
+ 		if j< 1253 or j>1317 then
+ 			if j<1378 then
+ 				if getsol(x(i,j))>0 then
+ 					writeln("Pasa por estación ",NumARuta(j,1)," a las ",NumARuta(j,2)," ",NumARuta(j,3), " tomando la ruta ",NumARuta(j,4))
+ 				end-if
+ 			end-if
+ 		end-if
+ 	end-do
+ 	writeln("Hay un flujo máximo de ", FO.sol*-1, " personas")
+ 	fclose(F_OUTPUT)
+ end-procedure
+ 
+imprimirResultados
 
 end-model

@@ -125,11 +125,20 @@ minimize(FO)
 
  procedure imprimirResultados
  	fopen("Ruta más corta.txt", F_OUTPUT)
+ 	iteracion:=0
  	forall(i,j in N | exists(x(i,j)))do
  		if j< 1253 or j>1317 then
  			if j<1378 then
  				if getsol(x(i,j))>0 then
- 					writeln("Pasa por estación ",NumARuta(j,1)," a las ",NumARuta(j,2)," ",NumARuta(j,3), " tomando la ruta ",NumARuta(j,4))
+ 					
+ 					if NumARuta(j,4) <> NumARuta(i,4) then
+ 						writeln("Pasa por estación ",NumARuta(i,1)," a las ",NumARuta(i,2)," ",NumARuta(i,3), " tomando la ruta ",NumARuta(i,4))	
+ 						writeln("Trasbordo en estación ",NumARuta(j,1)," a las ",NumARuta(j,2)," ",NumARuta(j,3), " tomando la ruta ",NumARuta(j,4))
+ 					else
+ 						writeln("Pasa por estación ",NumARuta(i,1)," a las ",NumARuta(i,2)," ",NumARuta(i,3), " tomando la ruta ",NumARuta(i,4))	
+ 						writeln("Pasa por estación ",NumARuta(j,1)," a las ",NumARuta(j,2)," ",NumARuta(j,3), " tomando la ruta ",NumARuta(j,4))
+ 					end-if
+ 					iteracion+=1
  				end-if
  			end-if
  		end-if
