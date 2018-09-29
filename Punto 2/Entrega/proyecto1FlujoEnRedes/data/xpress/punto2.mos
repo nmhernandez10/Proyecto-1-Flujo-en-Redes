@@ -1,0 +1,54 @@
+model ModelName
+uses "mmxprs"; !gain access to the Xpress-Optimizer solver
+
+
+
+!sample declarations section
+declarations
+N: set of integer
+
+!parametros
+L: dynamic array(N,N) of real
+T: dynamic array(N,N) of real
+n: integer
+C:integer
+D: array(N) of integer
+V: integer					!Numero de vehiculos a usar en el problema
+Mf:real
+Mv:real
+Mt:real
+Cm:real
+
+b: array(N) of integer
+
+!Variables de decision
+x: dynamic array (N,N) of mpvar
+
+end-declarations
+
+initializations from "parametrosP2/parameters.txt"
+	n V Mf Mv Mt Cm C
+end-initializations
+
+procedure initialize
+	V:=8
+	fopen("ParametrosP2/Tij.txt",F_INPUT)
+		j:=""
+		while(not iseof) do
+			read(j,"\t")
+			writeln(j)
+		end-do
+		
+	fclose(F_INPUT)
+end-procedure
+
+
+initialize 
+
+!Restriccion balance
+forall(i in N) do
+	sum(j in N | exists(x(i,j)))x(i,j) -sum(j in N | exists(x(j,i)))x(j,i) = b(i)
+end-do
+
+
+end-model
