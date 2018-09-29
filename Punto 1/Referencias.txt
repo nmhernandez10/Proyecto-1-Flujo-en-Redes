@@ -1,0 +1,1427 @@
+Fila	Nodo	Estación	Hora	Ruta
+1	1	Li Ka Shing Center (Campus Dr) 	7:00 AM	1050 Arastradero
+2	2	Y2E2 (Via Ortega) 	7:02 AM	1050 Arastradero
+3	3	Main Quad (Memorial Church)	7:04 AM	1050 Arastradero
+4	4	California Ave @ Yale St	7:10 AM	1050 Arastradero
+5	5	1500 Page Mill Rd	7:16 AM	1050 Arastradero
+6	6	3170 Porter Dr	7:18 AM	1050 Arastradero
+7	7	1050/1070 Arastradero Rd	7:28 AM	1050 Arastradero
+8	8	3165 Porter Dr	7:33 AM	1050 Arastradero
+9	9	Page Mill Rd (Peter Coutts East)	7:35 AM	1050 Arastradero
+10	10	El Camino Real @ California Ave 	7:41 AM	1050 Arastradero
+11	11	Main Quad (Campus Oval Side) 	7:45 AM	1050 Arastradero
+12	12	Li Ka Shing Center (Campus Dr) 	7:50 AM	1050 Arastradero
+13	13	Li Ka Shing Center (Campus Dr) 	7:20 AM	1050 Arastradero
+14	14	Y2E2 (Via Ortega) 	7:22 AM	1050 Arastradero
+15	15	Main Quad (Memorial Church)	7:24 AM	1050 Arastradero
+16	16	California Ave @ Yale St	7:30 AM	1050 Arastradero
+17	17	1500 Page Mill Rd	7:36 AM	1050 Arastradero
+18	18	3170 Porter Dr	7:38 AM	1050 Arastradero
+19	19	1050/1070 Arastradero Rd	7:48 AM	1050 Arastradero
+20	20	3165 Porter Dr	7:53 AM	1050 Arastradero
+21	21	Page Mill Rd (Peter Coutts East)	7:55 AM	1050 Arastradero
+22	22	El Camino Real @ California Ave 	8:01 AM	1050 Arastradero
+23	23	Main Quad (Campus Oval Side) 	8:05 AM	1050 Arastradero
+24	24	Li Ka Shing Center (Campus Dr) 	8:10 AM	1050 Arastradero
+25	25	Li Ka Shing Center (Campus Dr) 	7:40 AM	1050 Arastradero
+26	26	Y2E2 (Via Ortega) 	7:42 AM	1050 Arastradero
+27	27	Main Quad (Memorial Church)	7:44 AM	1050 Arastradero
+28	28	California Ave @ Yale St	7:50 AM	1050 Arastradero
+29	29	1500 Page Mill Rd	7:56 AM	1050 Arastradero
+30	30	3170 Porter Dr	7:58 AM	1050 Arastradero
+31	31	1050/1070 Arastradero Rd	8:08 AM	1050 Arastradero
+32	32	3165 Porter Dr	8:13 AM	1050 Arastradero
+33	33	Page Mill Rd (Peter Coutts East)	8:15 AM	1050 Arastradero
+34	34	El Camino Real @ California Ave 	8:21 AM	1050 Arastradero
+35	35	Main Quad (Campus Oval Side) 	8:25 AM	1050 Arastradero
+36	36	Li Ka Shing Center (Campus Dr) 	8:30 AM	1050 Arastradero
+37	37	Li Ka Shing Center (Campus Dr) 	8:00 AM	1050 Arastradero
+38	38	Y2E2 (Via Ortega) 	8:02 AM	1050 Arastradero
+39	39	Main Quad (Memorial Church)	8:04 AM	1050 Arastradero
+40	40	California Ave @ Yale St	8:10 AM	1050 Arastradero
+41	41	1500 Page Mill Rd	8:16 AM	1050 Arastradero
+42	42	3170 Porter Dr	8:18 AM	1050 Arastradero
+43	43	1050/1070 Arastradero Rd	8:28 AM	1050 Arastradero
+44	44	3165 Porter Dr	8:33 AM	1050 Arastradero
+45	45	Page Mill Rd (Peter Coutts East)	8:35 AM	1050 Arastradero
+46	46	El Camino Real @ California Ave 	8:41 AM	1050 Arastradero
+47	47	Main Quad (Campus Oval Side) 	8:45 AM	1050 Arastradero
+48	48	Li Ka Shing Center (Campus Dr) 	8:50 AM	1050 Arastradero
+49	49	Li Ka Shing Center (Campus Dr) 	8:20 AM	1050 Arastradero
+50	50	Y2E2 (Via Ortega) 	8:22 AM	1050 Arastradero
+51	51	Main Quad (Memorial Church)	8:24 AM	1050 Arastradero
+52	52	California Ave @ Yale St	8:30 AM	1050 Arastradero
+53	53	1500 Page Mill Rd	8:36 AM	1050 Arastradero
+54	54	3170 Porter Dr	8:38 AM	1050 Arastradero
+55	55	1050/1070 Arastradero Rd	8:48 AM	1050 Arastradero
+56	56	3165 Porter Dr	8:53 AM	1050 Arastradero
+57	57	Page Mill Rd (Peter Coutts East)	8:55 AM	1050 Arastradero
+58	58	El Camino Real @ California Ave 	9:01 AM	1050 Arastradero
+59	59	Main Quad (Campus Oval Side) 	9:05 AM	1050 Arastradero
+60	60	Li Ka Shing Center (Campus Dr) 	9:10 AM	1050 Arastradero
+61	61	Li Ka Shing Center (Campus Dr) 	8:40 AM	1050 Arastradero
+62	62	Y2E2 (Via Ortega) 	8:42 AM	1050 Arastradero
+63	63	Main Quad (Memorial Church)	8:44 AM	1050 Arastradero
+64	64	California Ave @ Yale St	8:50 AM	1050 Arastradero
+65	65	1500 Page Mill Rd	8:56 AM	1050 Arastradero
+66	66	3170 Porter Dr	8:58 AM	1050 Arastradero
+67	67	1050/1070 Arastradero Rd	9:08 AM	1050 Arastradero
+68	68	3165 Porter Dr	9:13 AM	1050 Arastradero
+69	69	Page Mill Rd (Peter Coutts East)	9:15 AM	1050 Arastradero
+70	70	El Camino Real @ California Ave 	9:21 AM	1050 Arastradero
+71	71	Main Quad (Campus Oval Side) 	9:25 AM	1050 Arastradero
+72	72	Li Ka Shing Center (Campus Dr) 	9:30 AM	1050 Arastradero
+73	73	Li Ka Shing Center (Campus Dr) 	9:00 AM	1050 Arastradero
+74	74	Y2E2 (Via Ortega) 	9:02 AM	1050 Arastradero
+75	75	Main Quad (Memorial Church)	9:04 AM	1050 Arastradero
+76	76	California Ave @ Yale St	9:10 AM	1050 Arastradero
+77	77	1500 Page Mill Rd	9:16 AM	1050 Arastradero
+78	78	3170 Porter Dr	9:18 AM	1050 Arastradero
+79	79	1050/1070 Arastradero Rd	9:28 AM	1050 Arastradero
+80	80	3165 Porter Dr	9:33 AM	1050 Arastradero
+81	81	Page Mill Rd (Peter Coutts East)	9:35 AM	1050 Arastradero
+82	82	El Camino Real @ California Ave 	9:41 AM	1050 Arastradero
+83	83	Main Quad (Campus Oval Side) 	9:45 AM	1050 Arastradero
+84	84	Li Ka Shing Center (Campus Dr) 	9:50 AM	1050 Arastradero
+85	85	Li Ka Shing Center (Campus Dr) 	9:20 AM	1050 Arastradero
+86	86	Y2E2 (Via Ortega) 	9:22 AM	1050 Arastradero
+87	87	Main Quad (Memorial Church)	9:24 AM	1050 Arastradero
+88	88	California Ave @ Yale St	9:30 AM	1050 Arastradero
+89	89	1500 Page Mill Rd	9:36 AM	1050 Arastradero
+90	90	3170 Porter Dr	9:38 AM	1050 Arastradero
+91	91	1050/1070 Arastradero Rd	9:48 AM	1050 Arastradero
+92	92	3165 Porter Dr	9:53 AM	1050 Arastradero
+93	93	Page Mill Rd (Peter Coutts East)	9:55 AM	1050 Arastradero
+94	94	El Camino Real @ California Ave 	10:01 AM	1050 Arastradero
+95	95	Main Quad (Campus Oval Side) 	10:05 AM	1050 Arastradero
+96	96	Li Ka Shing Center (Campus Dr) 	10:10 AM	1050 Arastradero
+97	97	Li Ka Shing Center (Campus Dr) 	9:40 AM	1050 Arastradero
+98	98	Y2E2 (Via Ortega) 	9:42 AM	1050 Arastradero
+99	99	Main Quad (Memorial Church)	9:44 AM	1050 Arastradero
+100	100	California Ave @ Yale St	9:50 AM	1050 Arastradero
+101	101	1500 Page Mill Rd	9:56 AM	1050 Arastradero
+102	102	3170 Porter Dr	9:58 AM	1050 Arastradero
+103	103	1050/1070 Arastradero Rd	10:08 AM	1050 Arastradero
+104	104	3165 Porter Dr	10:13 AM	1050 Arastradero
+105	105	Page Mill Rd (Peter Coutts East)	10:15 AM	1050 Arastradero
+106	106	El Camino Real @ California Ave 	10:21 AM	1050 Arastradero
+107	107	Main Quad (Campus Oval Side) 	10:25 AM	1050 Arastradero
+108	108	Li Ka Shing Center (Campus Dr) 	10:30 AM	1050 Arastradero
+109	109	Li Ka Shing Center (Campus Dr) 	10:00 AM	1050 Arastradero
+110	110	Y2E2 (Via Ortega) 	10:02 AM	1050 Arastradero
+111	111	Main Quad (Memorial Church)	10:04 AM	1050 Arastradero
+112	112	California Ave @ Yale St	10:10 AM	1050 Arastradero
+113	113	1500 Page Mill Rd	10:16 AM	1050 Arastradero
+114	114	3170 Porter Dr	10:18 AM	1050 Arastradero
+115	115	1050/1070 Arastradero Rd	10:28 AM	1050 Arastradero
+116	116	3165 Porter Dr	10:33 AM	1050 Arastradero
+117	117	Page Mill Rd (Peter Coutts East)	10:35 AM	1050 Arastradero
+118	118	El Camino Real @ California Ave 	10:41 AM	1050 Arastradero
+119	119	Main Quad (Campus Oval Side) 	10:45 AM	1050 Arastradero
+120	120	Li Ka Shing Center (Campus Dr) 	10:50 AM	1050 Arastradero
+121	121	Li Ka Shing Center (Campus Dr) 	10:20 AM	1050 Arastradero
+122	122	Y2E2 (Via Ortega) 	10:22 AM	1050 Arastradero
+123	123	Main Quad (Memorial Church)	10:24 AM	1050 Arastradero
+124	124	California Ave @ Yale St	10:30 AM	1050 Arastradero
+125	125	1500 Page Mill Rd	10:36 AM	1050 Arastradero
+126	126	3170 Porter Dr	10:38 AM	1050 Arastradero
+127	127	1050/1070 Arastradero Rd	10:48 AM	1050 Arastradero
+128	128	3165 Porter Dr	10:53 AM	1050 Arastradero
+129	129	Page Mill Rd (Peter Coutts East)	10:55 AM	1050 Arastradero
+130	130	El Camino Real @ California Ave 	11:01 AM	1050 Arastradero
+131	131	Main Quad (Campus Oval Side) 	11:05 AM	1050 Arastradero
+132	132	Li Ka Shing Center (Campus Dr) 	11:10 AM	1050 Arastradero
+133	133	Li Ka Shing Center (Campus Dr) 	10:40 AM	1050 Arastradero
+134	134	Y2E2 (Via Ortega) 	10:42 AM	1050 Arastradero
+135	135	Main Quad (Memorial Church)	10:44 AM	1050 Arastradero
+136	136	California Ave @ Yale St	10:50 AM	1050 Arastradero
+137	137	1500 Page Mill Rd	10:56 AM	1050 Arastradero
+138	138	3170 Porter Dr	10:58 AM	1050 Arastradero
+139	139	1050/1070 Arastradero Rd	11:08 AM	1050 Arastradero
+140	140	3165 Porter Dr	11:13 AM	1050 Arastradero
+141	141	Page Mill Rd (Peter Coutts East)	11:15 AM	1050 Arastradero
+142	142	El Camino Real @ California Ave 	11:21 AM	1050 Arastradero
+143	143	Main Quad (Campus Oval Side) 	11:25 AM	1050 Arastradero
+144	144	Li Ka Shing Center (Campus Dr) 	11:30 AM	1050 Arastradero
+145	145	Li Ka Shing Center (Campus Dr) 	11:00 AM	1050 Arastradero
+146	146	Y2E2 (Via Ortega) 	11:02 AM	1050 Arastradero
+147	147	Main Quad (Memorial Church)	11:04 AM	1050 Arastradero
+148	148	California Ave @ Yale St	11:10 AM	1050 Arastradero
+149	149	1500 Page Mill Rd	11:16 AM	1050 Arastradero
+150	150	3170 Porter Dr	11:18 AM	1050 Arastradero
+151	151	1050/1070 Arastradero Rd	11:28 AM	1050 Arastradero
+152	152	3165 Porter Dr	11:33 AM	1050 Arastradero
+153	153	Page Mill Rd (Peter Coutts East)	11:35 AM	1050 Arastradero
+154	154	El Camino Real @ California Ave 	11:41 AM	1050 Arastradero
+155	155	Main Quad (Campus Oval Side) 	11:45 AM	1050 Arastradero
+156	156	Li Ka Shing Center (Campus Dr) 	11:50 AM	1050 Arastradero
+157	157	Li Ka Shing Center (Campus Dr) 	11:20 AM	1050 Arastradero
+158	158	Y2E2 (Via Ortega) 	11:22 AM	1050 Arastradero
+159	159	Main Quad (Memorial Church)	11:24 AM	1050 Arastradero
+160	160	California Ave @ Yale St	11:30 AM	1050 Arastradero
+161	161	1500 Page Mill Rd	11:36 AM	1050 Arastradero
+162	162	3170 Porter Dr	11:38 AM	1050 Arastradero
+163	163	1050/1070 Arastradero Rd	11:48 AM	1050 Arastradero
+164	164	3165 Porter Dr	11:53 AM	1050 Arastradero
+165	165	Page Mill Rd (Peter Coutts East)	11:55 AM	1050 Arastradero
+166	166	El Camino Real @ California Ave 	12:01 PM	1050 Arastradero
+167	167	Main Quad (Campus Oval Side) 	12:05 PM	1050 Arastradero
+168	168	Li Ka Shing Center (Campus Dr) 	12:10 PM	1050 Arastradero
+169	169	Li Ka Shing Center (Campus Dr) 	11:40 AM	1050 Arastradero
+170	170	Y2E2 (Via Ortega) 	11:42 AM	1050 Arastradero
+171	171	Main Quad (Memorial Church)	11:44 AM	1050 Arastradero
+172	172	California Ave @ Yale St	11:50 AM	1050 Arastradero
+173	173	1500 Page Mill Rd	11:56 AM	1050 Arastradero
+174	174	3170 Porter Dr	11:58 AM	1050 Arastradero
+175	175	1050/1070 Arastradero Rd	12:08 PM	1050 Arastradero
+176	176	3165 Porter Dr	12:13 PM	1050 Arastradero
+177	177	Page Mill Rd (Peter Coutts East)	12:15 PM	1050 Arastradero
+178	178	El Camino Real @ California Ave 	12:21 PM	1050 Arastradero
+179	179	Main Quad (Campus Oval Side) 	12:25 PM	1050 Arastradero
+180	180	Li Ka Shing Center (Campus Dr) 	12:30 PM	1050 Arastradero
+181	184	Stock Farm Garage	5:35 AM	C
+182	185	Campus Dr (Across Street from Li Ka Shing Center)	5:38 AM	C
+183	186	Main Quad (Memorial Church) 	5:41 AM	C
+184	187	Schwab Residential Center (Serra St)	5:44 AM	C
+185	188	Olmsted Rd @ Hulme Crt	5:46 AM	C
+186	191	Graduate School of Business (Serra St)	5:49 AM	C
+187	192	Main Quad (Campus Oval Side) 	5:52 AM	C
+188	193	Li Ka Shing Center (Campus Dr) 	5:55 AM	C
+189	194	Stock Farm Garage	5:58 AM	C
+190	201	Stock Farm Garage	6:00 AM	C
+191	202	Campus Dr (Across Street from Li Ka Shing Center)	6:03 AM	C
+192	203	Main Quad (Memorial Church) 	6:06 AM	C
+193	204	Schwab Residential Center (Serra St)	6:09 AM	C
+194	205	Olmsted Rd @ Hulme Crt	6:11 AM	C
+195	208	Graduate School of Business (Serra St)	6:14 AM	C
+196	209	Main Quad (Campus Oval Side) 	6:17 AM	C
+197	210	Li Ka Shing Center (Campus Dr) 	6:20 AM	C
+198	211	Stock Farm Garage	6:23 AM	C
+199	218	Stock Farm Garage	6:25 AM	C
+200	219	Campus Dr (Across Street from Li Ka Shing Center)	6:28 AM	C
+201	220	Main Quad (Memorial Church) 	6:31 AM	C
+202	221	Schwab Residential Center (Serra St)	6:34 AM	C
+203	222	Olmsted Rd @ Hulme Crt	6:36 AM	C
+204	225	Graduate School of Business (Serra St)	6:39 AM	C
+205	226	Main Quad (Campus Oval Side) 	6:42 AM	C
+206	227	Li Ka Shing Center (Campus Dr) 	6:45 AM	C
+207	228	Stock Farm Garage	6:48 AM	C
+208	235	Stock Farm Garage	6:50 AM	C
+209	236	Campus Dr (Across Street from Li Ka Shing Center)	6:53 AM	C
+210	237	Main Quad (Memorial Church) 	6:56 AM	C
+211	238	Schwab Residential Center (Serra St)	6:59 AM	C
+212	239	Olmsted Rd @ Hulme Crt	7:01 AM	C
+213	240	Olmsted Rd @ Wellesley St	7:04 AM	C
+214	241	Bowdoin St @ Pine Hill Rd	7:07 AM	C
+215	242	Graduate School of Business (Serra St)	7:10 AM	C
+216	243	Main Quad (Campus Oval Side) 	7:13 AM	C
+217	244	Li Ka Shing Center (Campus Dr) 	7:16 AM	C
+218	245	Stock Farm Garage	7:20 AM	C
+219	246	Lucas Center (Welch Rd) 	7:22 AM	C
+220	247	Stanford West Apartments (Clark Way Across Street From Office) 	7:26 AM	C
+221	248	Vi at Palo Alto	7:28 AM	C
+222	249	Vi at Palo Alto	7:02 AM	C
+223	250	Stanford West Apartments (Clark Way)	7:04 AM	C
+224	251	Across Street From Lucas Center (Welch Rd) 	7:08 AM	C
+225	252	Stock Farm Garage	7:14 AM	C
+226	253	Campus Dr (Across Street from Li Ka Shing Center)	7:17 AM	C
+227	254	Main Quad (Memorial Church) 	7:20 AM	C
+228	255	Schwab Residential Center (Serra St)	7:23 AM	C
+229	256	Olmsted Rd @ Hulme Crt	7:25 AM	C
+230	257	Olmsted Rd @ Wellesley St	7:28 AM	C
+231	258	Bowdoin St @ Pine Hill Rd	7:31 AM	C
+232	259	Graduate School of Business (Serra St)	7:34 AM	C
+233	260	Main Quad (Campus Oval Side) 	7:37 AM	C
+234	261	Li Ka Shing Center (Campus Dr) 	7:40 AM	C
+235	262	Stock Farm Garage	7:44 AM	C
+236	263	Lucas Center (Welch Rd) 	7:46 AM	C
+237	264	Stanford West Apartments (Clark Way Across Street From Office) 	7:50 AM	C
+238	265	Vi at Palo Alto	7:52 AM	C
+239	269	Stock Farm Garage	7:29 AM	C
+240	270	Campus Dr (Across Street from Li Ka Shing Center)	7:32 AM	C
+241	271	Main Quad (Memorial Church) 	7:35 AM	C
+242	272	Schwab Residential Center (Serra St)	7:38 AM	C
+243	273	Olmsted Rd @ Hulme Crt	7:40 AM	C
+244	274	Olmsted Rd @ Wellesley St	7:43 AM	C
+245	275	Bowdoin St @ Pine Hill Rd	7:46 AM	C
+246	276	Graduate School of Business (Serra St)	7:49 AM	C
+247	277	Main Quad (Campus Oval Side) 	7:52 AM	C
+248	278	Li Ka Shing Center (Campus Dr) 	7:55 AM	C
+249	279	Stock Farm Garage	7:59 AM	C
+250	283	Vi at Palo Alto	7:32 AM	C
+251	284	Stanford West Apartments (Clark Way)	7:34 AM	C
+252	285	Across Street From Lucas Center (Welch Rd) 	7:38 AM	C
+253	286	Stock Farm Garage	7:44 AM	C
+254	287	Campus Dr (Across Street from Li Ka Shing Center)	7:47 AM	C
+255	288	Main Quad (Memorial Church) 	7:50 AM	C
+256	289	Schwab Residential Center (Serra St)	7:53 AM	C
+257	290	Olmsted Rd @ Hulme Crt	7:55 AM	C
+258	291	Olmsted Rd @ Wellesley St	7:58 AM	C
+259	292	Bowdoin St @ Pine Hill Rd	8:01 AM	C
+260	293	Graduate School of Business (Serra St)	8:04 AM	C
+261	294	Main Quad (Campus Oval Side) 	8:07 AM	C
+262	295	Li Ka Shing Center (Campus Dr) 	8:10 AM	C
+263	296	Stock Farm Garage	8:14 AM	C
+264	297	Lucas Center (Welch Rd) 	8:16 AM	C
+265	298	Stanford West Apartments (Clark Way Across Street From Office) 	8:20 AM	C
+266	299	Vi at Palo Alto	8:22 AM	C
+267	303	Stock Farm Garage	7:59 AM	C
+268	304	Campus Dr (Across Street from Li Ka Shing Center)	8:02 AM	C
+269	305	Main Quad (Memorial Church) 	8:05 AM	C
+270	306	Schwab Residential Center (Serra St)	8:08 AM	C
+271	307	Olmsted Rd @ Hulme Crt	8:10 AM	C
+272	308	Olmsted Rd @ Wellesley St	8:13 AM	C
+273	309	Bowdoin St @ Pine Hill Rd	8:16 AM	C
+274	310	Graduate School of Business (Serra St)	8:19 AM	C
+275	311	Main Quad (Campus Oval Side) 	8:22 AM	C
+276	312	Li Ka Shing Center (Campus Dr) 	8:25 AM	C
+277	313	Stock Farm Garage	8:29 AM	C
+278	317	Vi at Palo Alto	8:02 AM	C
+279	318	Stanford West Apartments (Clark Way)	8:04 AM	C
+280	319	Across Street From Lucas Center (Welch Rd) 	8:08 AM	C
+281	320	Stock Farm Garage	8:14 AM	C
+282	321	Campus Dr (Across Street from Li Ka Shing Center)	8:17 AM	C
+283	322	Main Quad (Memorial Church) 	8:20 AM	C
+284	323	Schwab Residential Center (Serra St)	8:23 AM	C
+285	324	Olmsted Rd @ Hulme Crt	8:25 AM	C
+286	325	Olmsted Rd @ Wellesley St	8:28 AM	C
+287	326	Bowdoin St @ Pine Hill Rd	8:31 AM	C
+288	327	Graduate School of Business (Serra St)	8:34 AM	C
+289	328	Main Quad (Campus Oval Side) 	8:37 AM	C
+290	329	Li Ka Shing Center (Campus Dr) 	8:40 AM	C
+291	330	Stock Farm Garage	8:44 AM	C
+292	331	Lucas Center (Welch Rd) 	8:46 AM	C
+293	332	Stanford West Apartments (Clark Way Across Street From Office) 	8:50 AM	C
+294	333	Vi at Palo Alto	8:52 AM	C
+295	337	Stock Farm Garage	8:29 AM	C
+296	338	Campus Dr (Across Street from Li Ka Shing Center)	8:32 AM	C
+297	339	Main Quad (Memorial Church) 	8:35 AM	C
+298	340	Schwab Residential Center (Serra St)	8:38 AM	C
+299	341	Olmsted Rd @ Hulme Crt	8:40 AM	C
+300	342	Olmsted Rd @ Wellesley St	8:43 AM	C
+301	343	Bowdoin St @ Pine Hill Rd	8:46 AM	C
+302	344	Graduate School of Business (Serra St)	8:49 AM	C
+303	345	Main Quad (Campus Oval Side) 	8:52 AM	C
+304	346	Li Ka Shing Center (Campus Dr) 	8:55 AM	C
+305	347	Stock Farm Garage	8:59 AM	C
+306	351	Vi at Palo Alto	8:32 AM	C
+307	352	Stanford West Apartments (Clark Way)	8:34 AM	C
+308	353	Across Street From Lucas Center (Welch Rd) 	8:38 AM	C
+309	354	Stock Farm Garage	8:44 AM	C
+310	355	Campus Dr (Across Street from Li Ka Shing Center)	8:47 AM	C
+311	356	Main Quad (Memorial Church) 	8:50 AM	C
+312	357	Schwab Residential Center (Serra St)	8:53 AM	C
+313	358	Olmsted Rd @ Hulme Crt	8:55 AM	C
+314	359	Olmsted Rd @ Wellesley St	8:58 AM	C
+315	360	Bowdoin St @ Pine Hill Rd	9:01 AM	C
+316	361	Graduate School of Business (Serra St)	9:04 AM	C
+317	362	Main Quad (Campus Oval Side) 	9:07 AM	C
+318	363	Li Ka Shing Center (Campus Dr) 	9:10 AM	C
+319	364	Stock Farm Garage	9:14 AM	C
+320	365	Lucas Center (Welch Rd) 	9:16 AM	C
+321	366	Stanford West Apartments (Clark Way Across Street From Office) 	9:20 AM	C
+322	367	Vi at Palo Alto	9:22 AM	C
+323	371	Stock Farm Garage	8:59 AM	C
+324	372	Campus Dr (Across Street from Li Ka Shing Center)	9:02 AM	C
+325	373	Main Quad (Memorial Church) 	9:05 AM	C
+326	374	Schwab Residential Center (Serra St)	9:08 AM	C
+327	375	Olmsted Rd @ Hulme Crt	9:10 AM	C
+328	376	Olmsted Rd @ Wellesley St	9:13 AM	C
+329	377	Bowdoin St @ Pine Hill Rd	9:16 AM	C
+330	378	Graduate School of Business (Serra St)	9:19 AM	C
+331	379	Main Quad (Campus Oval Side) 	9:22 AM	C
+332	380	Li Ka Shing Center (Campus Dr) 	9:25 AM	C
+333	381	Stock Farm Garage	9:29 AM	C
+334	385	Vi at Palo Alto	9:02 AM	C
+335	386	Stanford West Apartments (Clark Way)	9:04 AM	C
+336	387	Across Street From Lucas Center (Welch Rd) 	9:08 AM	C
+337	388	Stock Farm Garage	9:14 AM	C
+338	389	Campus Dr (Across Street from Li Ka Shing Center)	9:17 AM	C
+339	390	Main Quad (Memorial Church) 	9:20 AM	C
+340	391	Schwab Residential Center (Serra St)	9:23 AM	C
+341	392	Olmsted Rd @ Hulme Crt	9:25 AM	C
+342	393	Olmsted Rd @ Wellesley St	9:28 AM	C
+343	394	Bowdoin St @ Pine Hill Rd	9:31 AM	C
+344	395	Graduate School of Business (Serra St)	9:34 AM	C
+345	396	Main Quad (Campus Oval Side) 	9:37 AM	C
+346	397	Li Ka Shing Center (Campus Dr) 	9:40 AM	C
+347	398	Stock Farm Garage	9:44 AM	C
+348	399	Lucas Center (Welch Rd) 	9:46 AM	C
+349	400	Stanford West Apartments (Clark Way Across Street From Office) 	9:50 AM	C
+350	401	Vi at Palo Alto	9:52 AM	C
+351	405	Stock Farm Garage	9:29 AM	C
+352	406	Campus Dr (Across Street from Li Ka Shing Center)	9:32 AM	C
+353	407	Main Quad (Memorial Church) 	9:35 AM	C
+354	408	Schwab Residential Center (Serra St)	9:38 AM	C
+355	409	Olmsted Rd @ Hulme Crt	9:40 AM	C
+356	410	Olmsted Rd @ Wellesley St	9:43 AM	C
+357	411	Bowdoin St @ Pine Hill Rd	9:46 AM	C
+358	412	Graduate School of Business (Serra St)	9:49 AM	C
+359	413	Main Quad (Campus Oval Side) 	9:52 AM	C
+360	414	Li Ka Shing Center (Campus Dr) 	9:55 AM	C
+361	415	Stock Farm Garage	9:59 AM	C
+362	419	Vi at Palo Alto	9:32 AM	C
+363	420	Stanford West Apartments (Clark Way)	9:34 AM	C
+364	421	Across Street From Lucas Center (Welch Rd) 	9:38 AM	C
+365	422	Stock Farm Garage	9:44 AM	C
+366	423	Campus Dr (Across Street from Li Ka Shing Center)	9:47 AM	C
+367	424	Main Quad (Memorial Church) 	9:50 AM	C
+368	425	Schwab Residential Center (Serra St)	9:53 AM	C
+369	426	Olmsted Rd @ Hulme Crt	9:55 AM	C
+370	427	Olmsted Rd @ Wellesley St	9:58 AM	C
+371	428	Bowdoin St @ Pine Hill Rd	10:01 AM	C
+372	429	Graduate School of Business (Serra St)	10:04 AM	C
+373	430	Main Quad (Campus Oval Side) 	10:07 AM	C
+374	431	Li Ka Shing Center (Campus Dr) 	10:10 AM	C
+375	432	Stock Farm Garage	10:14 AM	C
+376	433	Lucas Center (Welch Rd) 	10:16 AM	C
+377	434	Stanford West Apartments (Clark Way Across Street From Office) 	10:20 AM	C
+378	435	Vi at Palo Alto	10:22 AM	C
+379	436	Vi at Palo Alto	10:02 AM	C
+380	437	Stanford West Apartments (Clark Way)	10:04 AM	C
+381	438	Across Street From Lucas Center (Welch Rd) 	10:08 AM	C
+382	439	Stock Farm Garage	10:14 AM	C
+383	440	Campus Dr (Across Street from Li Ka Shing Center)	10:17 AM	C
+384	441	Main Quad (Memorial Church) 	10:20 AM	C
+385	442	Schwab Residential Center (Serra St)	10:23 AM	C
+386	443	Olmsted Rd @ Hulme Crt	10:25 AM	C
+387	444	Olmsted Rd @ Wellesley St	10:28 AM	C
+388	445	Bowdoin St @ Pine Hill Rd	10:31 AM	C
+389	446	Graduate School of Business (Serra St)	10:34 AM	C
+390	447	Main Quad (Campus Oval Side) 	10:37 AM	C
+391	448	Li Ka Shing Center (Campus Dr) 	10:40 AM	C
+392	449	Stock Farm Garage	10:44 AM	C
+393	450	Lucas Center (Welch Rd) 	10:46 AM	C
+394	451	Stanford West Apartments (Clark Way Across Street From Office) 	10:50 AM	C
+395	452	Vi at Palo Alto	10:52 AM	C
+396	453	Vi at Palo Alto	10:32 AM	C
+397	454	Stanford West Apartments (Clark Way)	10:34 AM	C
+398	455	Across Street From Lucas Center (Welch Rd) 	10:38 AM	C
+399	456	Stock Farm Garage	10:44 AM	C
+400	457	Campus Dr (Across Street from Li Ka Shing Center)	10:47 AM	C
+401	458	Main Quad (Memorial Church) 	10:50 AM	C
+402	459	Schwab Residential Center (Serra St)	10:53 AM	C
+403	460	Olmsted Rd @ Hulme Crt	10:55 AM	C
+404	461	Olmsted Rd @ Wellesley St	10:58 AM	C
+405	462	Bowdoin St @ Pine Hill Rd	11:01 AM	C
+406	463	Graduate School of Business (Serra St)	11:04 AM	C
+407	464	Main Quad (Campus Oval Side) 	11:07 AM	C
+408	465	Li Ka Shing Center (Campus Dr) 	11:10 AM	C
+409	466	Stock Farm Garage	11:14 AM	C
+410	467	Lucas Center (Welch Rd) 	11:16 AM	C
+411	468	Stanford West Apartments (Clark Way Across Street From Office) 	11:20 AM	C
+412	469	Vi at Palo Alto	11:22 AM	C
+413	470	Vi at Palo Alto	11:02 AM	C
+414	471	Stanford West Apartments (Clark Way)	11:04 AM	C
+415	472	Across Street From Lucas Center (Welch Rd) 	11:08 AM	C
+416	473	Stock Farm Garage	11:14 AM	C
+417	474	Campus Dr (Across Street from Li Ka Shing Center)	11:17 AM	C
+418	475	Main Quad (Memorial Church) 	11:20 AM	C
+419	476	Schwab Residential Center (Serra St)	11:23 AM	C
+420	477	Olmsted Rd @ Hulme Crt	11:25 AM	C
+421	478	Olmsted Rd @ Wellesley St	11:28 AM	C
+422	479	Bowdoin St @ Pine Hill Rd	11:31 AM	C
+423	480	Graduate School of Business (Serra St)	11:34 AM	C
+424	481	Main Quad (Campus Oval Side) 	11:37 AM	C
+425	482	Li Ka Shing Center (Campus Dr) 	11:40 AM	C
+426	483	Stock Farm Garage	11:44 AM	C
+427	484	Lucas Center (Welch Rd) 	11:46 AM	C
+428	485	Stanford West Apartments (Clark Way Across Street From Office) 	11:50 AM	C
+429	486	Vi at Palo Alto	11:52 AM	C
+430	487	Vi at Palo Alto	11:32 AM	C
+431	488	Stanford West Apartments (Clark Way)	11:34 AM	C
+432	489	Across Street From Lucas Center (Welch Rd) 	11:38 AM	C
+433	490	Stock Farm Garage	11:44 AM	C
+434	491	Campus Dr (Across Street from Li Ka Shing Center)	11:47 AM	C
+435	492	Main Quad (Memorial Church) 	11:50 AM	C
+436	493	Schwab Residential Center (Serra St)	11:53 AM	C
+437	494	Olmsted Rd @ Hulme Crt	11:55 AM	C
+438	495	Olmsted Rd @ Wellesley St	11:58 AM	C
+439	496	Bowdoin St @ Pine Hill Rd	12:01 PM	C
+440	497	Graduate School of Business (Serra St)	12:04 PM	C
+441	498	Main Quad (Campus Oval Side) 	12:07 PM	C
+442	499	Li Ka Shing Center (Campus Dr) 	12:10 PM	C
+443	500	Stock Farm Garage	12:14 PM	C
+444	501	Lucas Center (Welch Rd) 	12:16 PM	C
+445	502	Stanford West Apartments (Clark Way Across Street From Office) 	12:20 PM	C
+446	503	Vi at Palo Alto	12:22 PM	C
+447	504	Palo Alto Transit Center (Caltrain Platform South) 	5:07 AM	Medical Center
+448	505	Stanford Shopping Center (Quarry Rd Near Pear Ln)	5:10 AM	Medical Center
+449	506	Stanford Barn (700 Welch Rd) 	5:13 AM	Medical Center
+450	507	780 Welch Rd	5:14 AM	Medical Center
+451	508	1000 Welch Rd	5:15 AM	Medical Center
+452	509	Across Street From Lucas Center (Welch Rd) 	5:17 AM	Medical Center
+453	514	Palo Alto Transit Center (Caltrain Platform South)	5:32 AM	Medical Center
+454	515	Palo Alto Transit Center (Caltrain Platform South) 	5:22 AM	Medical Center
+455	516	Stanford Shopping Center (Quarry Rd Near Pear Ln)	5:25 AM	Medical Center
+456	517	Stanford Barn (700 Welch Rd) 	5:28 AM	Medical Center
+457	518	780 Welch Rd	5:29 AM	Medical Center
+458	519	1000 Welch Rd	5:30 AM	Medical Center
+459	520	Across Street From Lucas Center (Welch Rd) 	5:32 AM	Medical Center
+460	525	Palo Alto Transit Center (Caltrain Platform South)	5:47 AM	Medical Center
+461	526	Palo Alto Transit Center (Caltrain Platform South) 	5:42 AM	Medical Center
+462	527	Stanford Shopping Center (Quarry Rd Near Pear Ln)	5:45 AM	Medical Center
+463	528	Stanford Barn (700 Welch Rd) 	5:48 AM	Medical Center
+464	529	780 Welch Rd	5:49 AM	Medical Center
+465	530	1000 Welch Rd	5:50 AM	Medical Center
+466	531	Across Street From Lucas Center (Welch Rd) 	5:52 AM	Medical Center
+467	536	Palo Alto Transit Center (Caltrain Platform South)	6:07 AM	Medical Center
+468	537	Palo Alto Transit Center (Caltrain Platform South) 	5:58 AM	Medical Center
+469	538	Stanford Shopping Center (Quarry Rd Near Pear Ln)	6:01 AM	Medical Center
+470	539	Stanford Barn (700 Welch Rd) 	6:04 AM	Medical Center
+471	540	780 Welch Rd	6:05 AM	Medical Center
+472	541	1000 Welch Rd	6:06 AM	Medical Center
+473	542	Across Street From Lucas Center (Welch Rd) 	6:08 AM	Medical Center
+474	547	Palo Alto Transit Center (Caltrain Platform South)	6:23 AM	Medical Center
+475	548	Palo Alto Transit Center (Caltrain Platform South) 	6:13 AM	Medical Center
+476	549	Stanford Shopping Center (Quarry Rd Near Pear Ln)	6:16 AM	Medical Center
+477	550	Stanford Barn (700 Welch Rd) 	6:19 AM	Medical Center
+478	551	780 Welch Rd	6:20 AM	Medical Center
+479	552	1000 Welch Rd	6:21 AM	Medical Center
+480	553	Across Street From Lucas Center (Welch Rd) 	6:23 AM	Medical Center
+481	558	Palo Alto Transit Center (Caltrain Platform South)	6:38 AM	Medical Center
+482	559	Palo Alto Transit Center (Caltrain Platform South) 	6:31 AM	Medical Center
+483	560	Stanford Shopping Center (Quarry Rd Near Pear Ln)	6:34 AM	Medical Center
+484	561	Stanford Barn (700 Welch Rd) 	6:37 AM	Medical Center
+485	562	780 Welch Rd	6:38 AM	Medical Center
+486	563	1000 Welch Rd	6:39 AM	Medical Center
+487	564	Across Street From Lucas Center (Welch Rd) 	6:41 AM	Medical Center
+488	569	Palo Alto Transit Center (Caltrain Platform South)	6:56 AM	Medical Center
+489	570	Palo Alto Transit Center (Caltrain Platform South) 	6:44 AM	Medical Center
+490	571	Stanford Shopping Center (Quarry Rd Near Pear Ln)	6:47 AM	Medical Center
+491	572	Stanford Barn (700 Welch Rd) 	6:50 AM	Medical Center
+492	573	780 Welch Rd	6:51 AM	Medical Center
+493	574	1000 Welch Rd	6:52 AM	Medical Center
+494	575	Across Street From Lucas Center (Welch Rd) 	6:54 AM	Medical Center
+495	580	Palo Alto Transit Center (Caltrain Platform South)	7:09 AM	Medical Center
+496	581	Palo Alto Transit Center (Caltrain Platform South) 	6:58 AM	Medical Center
+497	582	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:01 AM	Medical Center
+498	583	Stanford Barn (700 Welch Rd) 	7:04 AM	Medical Center
+499	584	780 Welch Rd	7:05 AM	Medical Center
+500	585	1000 Welch Rd	7:06 AM	Medical Center
+501	586	Across Street From Lucas Center (Welch Rd) 	7:08 AM	Medical Center
+502	591	Palo Alto Transit Center (Caltrain Platform South)	7:23 AM	Medical Center
+503	592	Palo Alto Transit Center (Caltrain Platform South) 	7:13 AM	Medical Center
+504	593	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:16 AM	Medical Center
+505	594	Stanford Barn (700 Welch Rd) 	7:19 AM	Medical Center
+506	595	780 Welch Rd	7:20 AM	Medical Center
+507	596	1000 Welch Rd	7:21 AM	Medical Center
+508	597	Across Street From Lucas Center (Welch Rd) 	7:23 AM	Medical Center
+509	602	Palo Alto Transit Center (Caltrain Platform South)	7:38 AM	Medical Center
+510	603	Palo Alto Transit Center (Caltrain Platform South) 	7:27 AM	Medical Center
+511	604	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:30 AM	Medical Center
+512	605	Stanford Barn (700 Welch Rd) 	7:33 AM	Medical Center
+513	606	780 Welch Rd	7:34 AM	Medical Center
+514	607	1000 Welch Rd	7:35 AM	Medical Center
+515	608	Across Street From Lucas Center (Welch Rd) 	7:37 AM	Medical Center
+516	613	Palo Alto Transit Center (Caltrain Platform South)	7:52 AM	Medical Center
+517	614	Palo Alto Transit Center (Caltrain Platform South) 	7:38 AM	Medical Center
+518	615	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:41 AM	Medical Center
+519	616	Stanford Barn (700 Welch Rd) 	7:44 AM	Medical Center
+520	617	780 Welch Rd	7:45 AM	Medical Center
+521	618	1000 Welch Rd	7:46 AM	Medical Center
+522	619	Across Street From Lucas Center (Welch Rd) 	7:48 AM	Medical Center
+523	624	Palo Alto Transit Center (Caltrain Platform South)	8:03 AM	Medical Center
+524	625	Palo Alto Transit Center (Caltrain Platform South) 	7:46 AM	Medical Center
+525	626	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:49 AM	Medical Center
+526	627	Stanford Barn (700 Welch Rd) 	7:52 AM	Medical Center
+527	628	780 Welch Rd	7:53 AM	Medical Center
+528	629	1000 Welch Rd	7:54 AM	Medical Center
+529	630	Across Street From Lucas Center (Welch Rd) 	7:56 AM	Medical Center
+530	635	Palo Alto Transit Center (Caltrain Platform South)	8:11 AM	Medical Center
+531	636	Palo Alto Transit Center (Caltrain Platform South) 	7:59 AM	Medical Center
+532	637	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:02 AM	Medical Center
+533	638	Stanford Barn (700 Welch Rd) 	8:05 AM	Medical Center
+534	639	780 Welch Rd	8:06 AM	Medical Center
+535	640	1000 Welch Rd	8:07 AM	Medical Center
+536	641	Across Street From Lucas Center (Welch Rd) 	8:09 AM	Medical Center
+537	646	Palo Alto Transit Center (Caltrain Platform South)	8:24 AM	Medical Center
+538	647	Palo Alto Transit Center (Caltrain Platform South) 	8:14 AM	Medical Center
+539	648	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:17 AM	Medical Center
+540	649	Stanford Barn (700 Welch Rd) 	8:20 AM	Medical Center
+541	650	780 Welch Rd	8:21 AM	Medical Center
+542	651	1000 Welch Rd	8:22 AM	Medical Center
+543	652	Across Street From Lucas Center (Welch Rd) 	8:24 AM	Medical Center
+544	657	Palo Alto Transit Center (Caltrain Platform South)	8:39 AM	Medical Center
+545	658	Palo Alto Transit Center (Caltrain Platform South) 	8:27 AM	Medical Center
+546	659	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:30 AM	Medical Center
+547	660	Stanford Barn (700 Welch Rd) 	8:33 AM	Medical Center
+548	661	780 Welch Rd	8:34 AM	Medical Center
+549	662	1000 Welch Rd	8:35 AM	Medical Center
+550	663	Across Street From Lucas Center (Welch Rd) 	8:37 AM	Medical Center
+551	668	Palo Alto Transit Center (Caltrain Platform South)	8:52 AM	Medical Center
+552	669	Palo Alto Transit Center (Caltrain Platform South) 	8:37 AM	Medical Center
+553	670	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:40 AM	Medical Center
+554	671	Stanford Barn (700 Welch Rd) 	8:43 AM	Medical Center
+555	672	780 Welch Rd	8:44 AM	Medical Center
+556	673	1000 Welch Rd	8:45 AM	Medical Center
+557	674	Across Street From Lucas Center (Welch Rd) 	8:47 AM	Medical Center
+558	679	Palo Alto Transit Center (Caltrain Platform South)	9:02 AM	Medical Center
+559	680	Palo Alto Transit Center (Caltrain Platform South) 	8:47 AM	Medical Center
+560	681	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:50 AM	Medical Center
+561	682	Stanford Barn (700 Welch Rd) 	8:53 AM	Medical Center
+562	683	780 Welch Rd	8:54 AM	Medical Center
+563	684	1000 Welch Rd	8:55 AM	Medical Center
+564	685	Across Street From Lucas Center (Welch Rd) 	8:57 AM	Medical Center
+565	690	Palo Alto Transit Center (Caltrain Platform South)	9:12 AM	Medical Center
+566	691	Palo Alto Transit Center (Caltrain Platform South) 	8:59 AM	Medical Center
+567	692	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:02 AM	Medical Center
+568	693	Stanford Barn (700 Welch Rd) 	9:05 AM	Medical Center
+569	694	780 Welch Rd	9:06 AM	Medical Center
+570	695	1000 Welch Rd	9:07 AM	Medical Center
+571	696	Across Street From Lucas Center (Welch Rd) 	9:09 AM	Medical Center
+572	701	Palo Alto Transit Center (Caltrain Platform South)	9:24 AM	Medical Center
+573	702	Palo Alto Transit Center (Caltrain Platform South) 	9:14 AM	Medical Center
+574	703	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:17 AM	Medical Center
+575	704	Stanford Barn (700 Welch Rd) 	9:20 AM	Medical Center
+576	705	780 Welch Rd	9:21 AM	Medical Center
+577	706	1000 Welch Rd	9:22 AM	Medical Center
+578	707	Across Street From Lucas Center (Welch Rd) 	9:24 AM	Medical Center
+579	712	Palo Alto Transit Center (Caltrain Platform South)	9:39 AM	Medical Center
+580	713	Palo Alto Transit Center (Bus Depot)	6:31 AM	Research Park
+581	714	Wells Fargo (El Camino Real @ California Ave) 	6:37 AM	Research Park
+582	715	Page Mill Rd @ El Camino Real	6:40 AM	Research Park
+583	716	Page Mill Rd @ Hanover St	6:42 AM	Research Park
+584	717	3170 Porter Dr	6:45 AM	Research Park
+585	718	Hillview Ave @ Coyote Hill Rd	6:49 AM	Research Park
+586	719	1050/1070 Arastradero Rd	6:51 AM	Research Park
+587	720	3475 Deer Creek Rd	6:58 AM	Research Park
+588	721	Palo Alto Transit Center (Bus Depot)	7:13 AM	Research Park
+589	722	Wells Fargo (El Camino Real @ California Ave) 	7:19 AM	Research Park
+590	723	Page Mill Rd @ El Camino Real	7:22 AM	Research Park
+591	724	Page Mill Rd @ Hanover St	7:24 AM	Research Park
+592	725	3170 Porter Dr	7:27 AM	Research Park
+593	726	Hillview Ave @ Coyote Hill Rd	7:31 AM	Research Park
+594	727	1050/1070 Arastradero Rd	7:33 AM	Research Park
+595	728	3475 Deer Creek Rd	7:40 AM	Research Park
+596	729	Palo Alto Transit Center (Bus Depot)	7:31 AM	Research Park
+597	730	Wells Fargo (El Camino Real @ California Ave) 	7:37 AM	Research Park
+598	731	Page Mill Rd @ El Camino Real	7:40 AM	Research Park
+599	732	Page Mill Rd @ Hanover St	7:42 AM	Research Park
+600	733	3170 Porter Dr	7:45 AM	Research Park
+601	734	Hillview Ave @ Coyote Hill Rd	7:49 AM	Research Park
+602	735	1050/1070 Arastradero Rd	7:51 AM	Research Park
+603	736	3475 Deer Creek Rd	7:58 AM	Research Park
+604	737	Palo Alto Transit Center (Bus Depot)	7:46 AM	Research Park
+605	738	Wells Fargo (El Camino Real @ California Ave) 	7:52 AM	Research Park
+606	739	Page Mill Rd @ El Camino Real	7:55 AM	Research Park
+607	740	Page Mill Rd @ Hanover St	7:57 AM	Research Park
+608	741	3170 Porter Dr	8:00 AM	Research Park
+609	742	Hillview Ave @ Coyote Hill Rd	8:04 AM	Research Park
+610	743	1050/1070 Arastradero Rd	8:06 AM	Research Park
+611	744	3475 Deer Creek Rd	8:13 AM	Research Park
+612	745	Palo Alto Transit Center (Bus Depot)	7:59 AM	Research Park
+613	746	Wells Fargo (El Camino Real @ California Ave) 	8:05 AM	Research Park
+614	747	Page Mill Rd @ El Camino Real	8:08 AM	Research Park
+615	748	Page Mill Rd @ Hanover St	8:10 AM	Research Park
+616	749	3170 Porter Dr	8:13 AM	Research Park
+617	750	Hillview Ave @ Coyote Hill Rd	8:17 AM	Research Park
+618	751	1050/1070 Arastradero Rd	8:19 AM	Research Park
+619	752	3475 Deer Creek Rd	8:26 AM	Research Park
+620	753	Palo Alto Transit Center (Bus Depot)	8:14 AM	Research Park
+621	754	Wells Fargo (El Camino Real @ California Ave) 	8:20 AM	Research Park
+622	755	Page Mill Rd @ El Camino Real	8:23 AM	Research Park
+623	756	Page Mill Rd @ Hanover St	8:25 AM	Research Park
+624	757	3170 Porter Dr	8:28 AM	Research Park
+625	758	Hillview Ave @ Coyote Hill Rd	8:32 AM	Research Park
+626	759	1050/1070 Arastradero Rd	8:34 AM	Research Park
+627	760	3475 Deer Creek Rd	8:41 AM	Research Park
+628	761	Palo Alto Transit Center (Bus Depot)	8:32 AM	Research Park
+629	762	Wells Fargo (El Camino Real @ California Ave) 	8:38 AM	Research Park
+630	763	Page Mill Rd @ El Camino Real	8:41 AM	Research Park
+631	764	Page Mill Rd @ Hanover St	8:43 AM	Research Park
+632	765	3170 Porter Dr	8:46 AM	Research Park
+633	766	Hillview Ave @ Coyote Hill Rd	8:50 AM	Research Park
+634	767	1050/1070 Arastradero Rd	8:52 AM	Research Park
+635	768	3475 Deer Creek Rd	8:59 AM	Research Park
+636	769	Palo Alto Transit Center (Bus Depot)	8:47 AM	Research Park
+637	770	Wells Fargo (El Camino Real @ California Ave) 	8:53 AM	Research Park
+638	771	Page Mill Rd @ El Camino Real	8:56 AM	Research Park
+639	772	Page Mill Rd @ Hanover St	8:58 AM	Research Park
+640	773	3170 Porter Dr	9:01 AM	Research Park
+641	774	Hillview Ave @ Coyote Hill Rd	9:05 AM	Research Park
+642	775	1050/1070 Arastradero Rd	9:07 AM	Research Park
+643	776	3475 Deer Creek Rd	9:14 AM	Research Park
+644	777	Palo Alto Transit Center (Bus Depot)	8:59 AM	Research Park
+645	778	Wells Fargo (El Camino Real @ California Ave) 	9:05 AM	Research Park
+646	779	Page Mill Rd @ El Camino Real	9:08 AM	Research Park
+647	780	Page Mill Rd @ Hanover St	9:10 AM	Research Park
+648	781	3170 Porter Dr	9:13 AM	Research Park
+649	782	Hillview Ave @ Coyote Hill Rd	9:17 AM	Research Park
+650	783	1050/1070 Arastradero Rd	9:19 AM	Research Park
+651	784	3475 Deer Creek Rd	9:26 AM	Research Park
+652	785	Palo Alto Transit Center (Bus Depot)	9:14 AM	Research Park
+653	786	Wells Fargo (El Camino Real @ California Ave) 	9:20 AM	Research Park
+654	787	Page Mill Rd @ El Camino Real	9:23 AM	Research Park
+655	788	Page Mill Rd @ Hanover St	9:25 AM	Research Park
+656	789	3170 Porter Dr	9:28 AM	Research Park
+657	790	Hillview Ave @ Coyote Hill Rd	9:32 AM	Research Park
+658	791	1050/1070 Arastradero Rd	9:34 AM	Research Park
+659	792	3475 Deer Creek Rd	9:41 AM	Research Park
+660	793	Palo Alto Transit Center (Bus Depot)	9:37 AM	Research Park
+661	794	Wells Fargo (El Camino Real @ California Ave) 	9:43 AM	Research Park
+662	795	Page Mill Rd @ El Camino Real	9:46 AM	Research Park
+663	796	Page Mill Rd @ Hanover St	9:48 AM	Research Park
+664	797	3170 Porter Dr	9:51 AM	Research Park
+665	798	Hillview Ave @ Coyote Hill Rd	9:55 AM	Research Park
+666	799	1050/1070 Arastradero Rd	9:57 AM	Research Park
+667	800	3475 Deer Creek Rd	10:04 AM	Research Park
+668	801	Palo Alto Transit Center (Bus Depot)	9:54 AM	Research Park
+669	802	Wells Fargo (El Camino Real @ California Ave) 	10:00 AM	Research Park
+670	803	Page Mill Rd @ El Camino Real	10:03 AM	Research Park
+671	804	Page Mill Rd @ Hanover St	10:05 AM	Research Park
+672	805	3170 Porter Dr	10:08 AM	Research Park
+673	806	Hillview Ave @ Coyote Hill Rd	10:12 AM	Research Park
+674	807	1050/1070 Arastradero Rd	10:14 AM	Research Park
+675	808	3475 Deer Creek Rd	10:21 AM	Research Park
+676	809	Oak Creek Apartments (Across Street On Sand Hill Rd)	6:23 AM	S
+677	810	Stanford West Apartments (Clark Way Across Street From Office)	6:25 AM	S
+678	811	Palo Alto Transit Center (Bus Depot Drop Off)	6:35 AM	S
+679	812	Palo Alto Transit Center (Bus Depot Pick Up)	6:43 AM	S
+680	813	Crate & Barrel (Quarry Rd)	6:46 AM	S
+681	814	Sand Hill Rd @ Clark Way	6:48 AM	S
+682	815	Oak Creek Apartments (Sand Hill Rd)	6:49 AM	S
+683	816	Sharon Park Shopping Center (Sand Hill Rd)	6:52 AM	S
+684	817	Rosewood Hotel (In Parking Lot)	6:57 AM	S
+685	818	Stanford Guest House (In Parking Lot)	7:02 AM	S
+686	819	Oak Creek Apartments (Across Street On Sand Hill Rd)	7:08 AM	S
+687	820	Stanford West Apartments (Clark Way Across Street From Office)	7:10 AM	S
+688	821	Palo Alto Transit Center (Bus Depot Drop Off)	7:20 AM	S
+689	822	Palo Alto Transit Center (Bus Depot Pick Up)	7:36 AM	S
+690	823	Crate & Barrel (Quarry Rd)	7:39 AM	S
+691	824	Sand Hill Rd @ Clark Way	7:41 AM	S
+692	825	Oak Creek Apartments (Sand Hill Rd)	7:42 AM	S
+693	826	Sharon Park Shopping Center (Sand Hill Rd)	7:45 AM	S
+694	827	Rosewood Hotel (In Parking Lot)	7:50 AM	S
+695	828	Stanford Guest House (In Parking Lot)	7:55 AM	S
+696	829	Oak Creek Apartments (Across Street On Sand Hill Rd)	8:01 AM	S
+697	830	Stanford West Apartments (Clark Way Across Street From Office)	8:03 AM	S
+698	831	Palo Alto Transit Center (Bus Depot Drop Off)	8:13 AM	S
+699	832	Palo Alto Transit Center (Bus Depot Pick Up)	8:26 AM	S
+700	833	Crate & Barrel (Quarry Rd)	8:29 AM	S
+701	834	Sand Hill Rd @ Clark Way	8:31 AM	S
+702	835	Oak Creek Apartments (Sand Hill Rd)	8:32 AM	S
+703	836	Sharon Park Shopping Center (Sand Hill Rd)	8:35 AM	S
+704	837	Rosewood Hotel (In Parking Lot)	8:40 AM	S
+705	838	Stanford Guest House (In Parking Lot)	8:45 AM	S
+706	839	Oak Creek Apartments (Across Street On Sand Hill Rd)	8:51 AM	S
+707	840	Stanford West Apartments (Clark Way Across Street From Office)	8:53 AM	S
+708	841	Palo Alto Transit Center (Bus Depot Drop Off)	9:03 AM	S
+709	842	Palo Alto Transit Center (Bus Depot Pick Up)	9:04 AM	S
+710	843	Crate & Barrel (Quarry Rd)	9:07 AM	S
+711	844	Sand Hill Rd @ Clark Way	9:09 AM	S
+712	845	Oak Creek Apartments (Sand Hill Rd)	9:10 AM	S
+713	846	Sharon Park Shopping Center (Sand Hill Rd)	9:13 AM	S
+714	847	Rosewood Hotel (In Parking Lot)	9:18 AM	S
+715	848	Stanford Guest House (In Parking Lot)	9:23 AM	S
+716	849	Hoover Pavilion Garage (Inside Lot 1) 	6:30 AM	W
+717	850	Stanford Barn (700 Welch Rd) 	6:34 AM	W
+718	851	780 Welch Rd 	6:35 AM	W
+719	852	1000 Welch Rd 	6:36 AM	W
+720	853	Hoover Pavilion Garage (Inside Lot 1) 	6:45 AM	W
+721	854	Hoover Pavilion Garage (Inside Lot 1) 	6:45 AM	W
+722	855	Stanford Barn (700 Welch Rd) 	6:49 AM	W
+723	856	780 Welch Rd 	6:50 AM	W
+724	857	1000 Welch Rd 	6:51 AM	W
+725	858	Hoover Pavilion Garage (Inside Lot 1) 	7:00 AM	W
+726	859	Hoover Pavilion Garage (Inside Lot 1) 	7:00 AM	W
+727	860	Stanford Barn (700 Welch Rd) 	7:04 AM	W
+728	861	780 Welch Rd 	7:05 AM	W
+729	862	1000 Welch Rd 	7:06 AM	W
+730	863	Hoover Pavilion Garage (Inside Lot 1) 	7:15 AM	W
+731	864	Hoover Pavilion Garage (Inside Lot 1) 	7:15 AM	W
+732	865	Stanford Barn (700 Welch Rd) 	7:19 AM	W
+733	866	780 Welch Rd 	7:20 AM	W
+734	867	1000 Welch Rd 	7:21 AM	W
+735	868	Hoover Pavilion Garage (Inside Lot 1) 	7:30 AM	W
+736	869	Hoover Pavilion Garage (Inside Lot 1) 	7:30 AM	W
+737	870	Stanford Barn (700 Welch Rd) 	7:34 AM	W
+738	871	780 Welch Rd 	7:35 AM	W
+739	872	1000 Welch Rd 	7:36 AM	W
+740	873	Hoover Pavilion Garage (Inside Lot 1) 	7:45 AM	W
+741	874	Hoover Pavilion Garage (Inside Lot 1) 	7:45 AM	W
+742	875	Stanford Barn (700 Welch Rd) 	7:49 AM	W
+743	876	780 Welch Rd 	7:50 AM	W
+744	877	1000 Welch Rd 	7:51 AM	W
+745	878	Hoover Pavilion Garage (Inside Lot 1) 	8:00 AM	W
+746	879	Hoover Pavilion Garage (Inside Lot 1) 	8:00 AM	W
+747	880	Stanford Barn (700 Welch Rd) 	8:04 AM	W
+748	881	780 Welch Rd 	8:05 AM	W
+749	882	1000 Welch Rd 	8:06 AM	W
+750	883	Hoover Pavilion Garage (Inside Lot 1) 	8:15 AM	W
+751	884	Hoover Pavilion Garage (Inside Lot 1) 	8:15 AM	W
+752	885	Stanford Barn (700 Welch Rd) 	8:19 AM	W
+753	886	780 Welch Rd 	8:20 AM	W
+754	887	1000 Welch Rd 	8:21 AM	W
+755	888	Hoover Pavilion Garage (Inside Lot 1) 	8:30 AM	W
+756	889	Hoover Pavilion Garage (Inside Lot 1) 	8:30 AM	W
+757	890	Stanford Barn (700 Welch Rd) 	8:34 AM	W
+758	891	780 Welch Rd 	8:35 AM	W
+759	892	1000 Welch Rd 	8:36 AM	W
+760	893	Hoover Pavilion Garage (Inside Lot 1) 	8:45 AM	W
+761	894	Hoover Pavilion Garage (Inside Lot 1) 	8:45 AM	W
+762	895	Stanford Barn (700 Welch Rd) 	8:49 AM	W
+763	896	780 Welch Rd 	8:50 AM	W
+764	897	1000 Welch Rd 	8:51 AM	W
+765	898	Hoover Pavilion Garage (Inside Lot 1) 	9:00 AM	W
+766	899	Hoover Pavilion Garage (Inside Lot 1) 	9:00 AM	W
+767	900	Stanford Barn (700 Welch Rd) 	9:04 AM	W
+768	901	780 Welch Rd 	9:05 AM	W
+769	902	1000 Welch Rd 	9:06 AM	W
+770	904	Palo Alto Transit Center (Caltrain Platform) 	5:53 AM	X
+771	906	Medical Center (Quarry Extension) 	6:03 AM	X
+772	915	Palo Alto Transit Center (Caltrain Platform) 	6:13 AM	X
+773	916	Stanford Shopping Center (Quarry Rd Near Pear Ln)	6:16 AM	X
+774	917	Medical Center (Quarry Extension) 	6:20 AM	X
+775	918	Y2E2 (Across Street On Via Ortega) 	6:22 AM	X
+776	920	Tresidder Union (Lagunita Dr)	6:29 AM	X
+777	921	Vaden Health Center (Campus Dr)	6:32 AM	X
+778	922	Graduate School of Business (Serra St)	6:35 AM	X
+779	923	Visitor Center (Galvez St)	6:38 AM	X
+780	924	Town and Country Village (El Camino Real) 	6:40 AM	X
+781	925	Palo Alto Transit Center (Caltrain Platform) 	6:48 AM	X
+782	926	Palo Alto Transit Center (Caltrain Platform) 	6:31 AM	X
+783	927	Stanford Shopping Center (Quarry Rd Near Pear Ln)	6:34 AM	X
+784	928	Medical Center (Quarry Extension) 	6:38 AM	X
+785	929	Y2E2 (Across Street On Via Ortega) 	6:40 AM	X
+786	931	Tresidder Union (Lagunita Dr)	6:47 AM	X
+787	932	Vaden Health Center (Campus Dr)	6:50 AM	X
+788	933	Graduate School of Business (Serra St)	6:53 AM	X
+789	934	Visitor Center (Galvez St)	6:56 AM	X
+790	935	Town and Country Village (El Camino Real) 	6:58 AM	X
+791	936	Palo Alto Transit Center (Caltrain Platform) 	7:06 AM	X
+792	937	Palo Alto Transit Center (Caltrain Platform) 	6:39 AM	X
+793	939	Medical Center (Quarry Extension) 	6:49 AM	X
+794	948	Palo Alto Transit Center (Caltrain Platform) 	6:48 AM	X
+795	949	Stanford Shopping Center (Quarry Rd Near Pear Ln)	6:51 AM	X
+796	950	Medical Center (Quarry Extension) 	6:55 AM	X
+797	951	Y2E2 (Across Street On Via Ortega) 	6:57 AM	X
+798	953	Tresidder Union (Lagunita Dr)	7:04 AM	X
+799	954	Vaden Health Center (Campus Dr)	7:07 AM	X
+800	955	Graduate School of Business (Serra St)	7:10 AM	X
+801	956	Visitor Center (Galvez St)	7:13 AM	X
+802	957	Town and Country Village (El Camino Real) 	7:15 AM	X
+803	958	Palo Alto Transit Center (Caltrain Platform) 	7:23 AM	X
+804	959	Palo Alto Transit Center (Caltrain Platform) 	6:53 AM	X
+805	961	Medical Center (Quarry Extension) 	7:03 AM	X
+806	970	Palo Alto Transit Center (Caltrain Platform) 	7:08 AM	X
+807	972	Medical Center (Quarry Extension) 	7:18 AM	X
+808	981	Palo Alto Transit Center (Caltrain Platform) 	7:13 AM	X
+809	982	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:16 AM	X
+810	983	Medical Center (Quarry Extension) 	7:20 AM	X
+811	984	Y2E2 (Across Street On Via Ortega) 	7:22 AM	X
+812	986	Tresidder Union (Lagunita Dr)	7:29 AM	X
+813	987	Vaden Health Center (Campus Dr)	7:32 AM	X
+814	988	Graduate School of Business (Serra St)	7:35 AM	X
+815	989	Visitor Center (Galvez St)	7:38 AM	X
+816	990	Town and Country Village (El Camino Real) 	7:40 AM	X
+817	991	Palo Alto Transit Center (Caltrain Platform) 	7:48 AM	X
+818	992	Palo Alto Transit Center (Caltrain Platform) 	7:19 AM	X
+819	994	Medical Center (Quarry Extension) 	7:29 AM	X
+820	1003	Palo Alto Transit Center (Caltrain Platform) 	7:22 AM	X
+821	1004	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:25 AM	X
+822	1005	Medical Center (Quarry Extension) 	7:29 AM	X
+823	1006	Y2E2 (Across Street On Via Ortega) 	7:31 AM	X
+824	1007	Campus Dr (Across Street from Li Ka Shing Center)	7:33 AM	X
+825	1014	Palo Alto Transit Center (Caltrain Platform) 	7:26 AM	X
+826	1016	Medical Center (Quarry Extension) 	7:36 AM	X
+827	1025	Palo Alto Transit Center (Caltrain Platform) 	7:31 AM	X
+828	1026	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:34 AM	X
+829	1027	Medical Center (Quarry Extension) 	7:38 AM	X
+830	1028	Y2E2 (Across Street On Via Ortega) 	7:40 AM	X
+831	1030	Tresidder Union (Lagunita Dr)	7:47 AM	X
+832	1031	Vaden Health Center (Campus Dr)	7:50 AM	X
+833	1032	Graduate School of Business (Serra St)	7:53 AM	X
+834	1033	Visitor Center (Galvez St)	7:56 AM	X
+835	1034	Town and Country Village (El Camino Real) 	7:58 AM	X
+836	1035	Palo Alto Transit Center (Caltrain Platform) 	8:06 AM	X
+837	1036	Palo Alto Transit Center (Caltrain Platform) 	7:34 AM	X
+838	1037	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:37 AM	X
+839	1038	Medical Center (Quarry Extension) 	7:41 AM	X
+840	1039	Y2E2 (Across Street On Via Ortega) 	7:43 AM	X
+841	1040	Campus Dr (Across Street from Li Ka Shing Center)	7:45 AM	X
+842	1047	Palo Alto Transit Center (Caltrain Platform) 	7:39 AM	X
+843	1049	Medical Center (Quarry Extension) 	7:49 AM	X
+844	1058	Palo Alto Transit Center (Caltrain Platform) 	7:41 AM	X
+845	1059	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:44 AM	X
+846	1060	Medical Center (Quarry Extension) 	7:48 AM	X
+847	1061	Y2E2 (Across Street On Via Ortega) 	7:50 AM	X
+848	1062	Campus Dr (Across Street from Li Ka Shing Center)	7:52 AM	X
+849	1069	Palo Alto Transit Center (Caltrain Platform) 	7:50 AM	X
+850	1070	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:53 AM	X
+851	1071	Medical Center (Quarry Extension) 	7:57 AM	X
+852	1072	Y2E2 (Across Street On Via Ortega) 	7:59 AM	X
+853	1074	Tresidder Union (Lagunita Dr)	8:06 AM	X
+854	1075	Vaden Health Center (Campus Dr)	8:09 AM	X
+855	1076	Graduate School of Business (Serra St)	8:12 AM	X
+856	1077	Visitor Center (Galvez St)	8:15 AM	X
+857	1078	Town and Country Village (El Camino Real) 	8:17 AM	X
+858	1079	Palo Alto Transit Center (Caltrain Platform) 	8:25 AM	X
+859	1080	Palo Alto Transit Center (Caltrain Platform) 	7:54 AM	X
+860	1081	Stanford Shopping Center (Quarry Rd Near Pear Ln)	7:57 AM	X
+861	1082	Medical Center (Quarry Extension) 	8:01 AM	X
+862	1083	Y2E2 (Across Street On Via Ortega) 	8:03 AM	X
+863	1084	Campus Dr (Across Street from Li Ka Shing Center)	8:05 AM	X
+864	1091	Palo Alto Transit Center (Caltrain Platform) 	8:08 AM	X
+865	1093	Medical Center (Quarry Extension) 	8:18 AM	X
+866	1102	Palo Alto Transit Center (Caltrain Platform) 	8:14 AM	X
+867	1103	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:17 AM	X
+868	1104	Medical Center (Quarry Extension) 	8:21 AM	X
+869	1105	Y2E2 (Across Street On Via Ortega) 	8:23 AM	X
+870	1107	Tresidder Union (Lagunita Dr)	8:30 AM	X
+871	1108	Vaden Health Center (Campus Dr)	8:33 AM	X
+872	1109	Graduate School of Business (Serra St)	8:36 AM	X
+873	1110	Visitor Center (Galvez St)	8:39 AM	X
+874	1111	Town and Country Village (El Camino Real) 	8:41 AM	X
+875	1112	Palo Alto Transit Center (Caltrain Platform) 	8:49 AM	X
+876	1113	Palo Alto Transit Center (Caltrain Platform) 	8:19 AM	X
+877	1115	Medical Center (Quarry Extension) 	8:29 AM	X
+878	1124	Palo Alto Transit Center (Caltrain Platform) 	8:22 AM	X
+879	1125	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:25 AM	X
+880	1126	Medical Center (Quarry Extension) 	8:29 AM	X
+881	1127	Y2E2 (Across Street On Via Ortega) 	8:31 AM	X
+882	1128	Campus Dr (Across Street from Li Ka Shing Center)	8:33 AM	X
+883	1135	Palo Alto Transit Center (Caltrain Platform) 	8:27 AM	X
+884	1137	Medical Center (Quarry Extension) 	8:37 AM	X
+885	1146	Palo Alto Transit Center (Caltrain Platform) 	8:32 AM	X
+886	1147	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:35 AM	X
+887	1148	Medical Center (Quarry Extension) 	8:39 AM	X
+888	1149	Y2E2 (Across Street On Via Ortega) 	8:41 AM	X
+889	1151	Tresidder Union (Lagunita Dr)	8:48 AM	X
+890	1152	Vaden Health Center (Campus Dr)	8:51 AM	X
+891	1153	Graduate School of Business (Serra St)	8:54 AM	X
+892	1154	Visitor Center (Galvez St)	8:57 AM	X
+893	1155	Town and Country Village (El Camino Real) 	8:59 AM	X
+894	1156	Palo Alto Transit Center (Caltrain Platform) 	9:07 AM	X
+895	1157	Palo Alto Transit Center (Caltrain Platform) 	8:34 AM	X
+896	1158	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:37 AM	X
+897	1159	Medical Center (Quarry Extension) 	8:41 AM	X
+898	1160	Y2E2 (Across Street On Via Ortega) 	8:43 AM	X
+899	1161	Campus Dr (Across Street from Li Ka Shing Center)	8:45 AM	X
+900	1168	Palo Alto Transit Center (Caltrain Platform) 	8:42 AM	X
+901	1170	Medical Center (Quarry Extension) 	8:52 AM	X
+902	1179	Palo Alto Transit Center (Caltrain Platform) 	8:42 AM	X
+903	1180	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:45 AM	X
+904	1181	Medical Center (Quarry Extension) 	8:49 AM	X
+905	1182	Y2E2 (Across Street On Via Ortega) 	8:51 AM	X
+906	1183	Campus Dr (Across Street from Li Ka Shing Center)	8:53 AM	X
+907	1190	Palo Alto Transit Center (Caltrain Platform) 	8:50 AM	X
+908	1191	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:53 AM	X
+909	1192	Medical Center (Quarry Extension) 	8:57 AM	X
+910	1193	Y2E2 (Across Street On Via Ortega) 	8:59 AM	X
+911	1195	Tresidder Union (Lagunita Dr)	9:06 AM	X
+912	1196	Vaden Health Center (Campus Dr)	9:09 AM	X
+913	1197	Graduate School of Business (Serra St)	9:12 AM	X
+914	1198	Visitor Center (Galvez St)	9:15 AM	X
+915	1199	Town and Country Village (El Camino Real) 	9:17 AM	X
+916	1200	Palo Alto Transit Center (Caltrain Platform) 	9:25 AM	X
+917	1201	Palo Alto Transit Center (Caltrain Platform) 	8:54 AM	X
+918	1202	Stanford Shopping Center (Quarry Rd Near Pear Ln)	8:57 AM	X
+919	1203	Medical Center (Quarry Extension) 	9:01 AM	X
+920	1204	Y2E2 (Across Street On Via Ortega) 	9:03 AM	X
+921	1205	Campus Dr (Across Street from Li Ka Shing Center)	9:05 AM	X
+922	1212	Palo Alto Transit Center (Caltrain Platform) 	9:14 AM	X
+923	1213	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:17 AM	X
+924	1214	Medical Center (Quarry Extension) 	9:21 AM	X
+925	1215	Y2E2 (Across Street On Via Ortega) 	9:23 AM	X
+926	1217	Tresidder Union (Lagunita Dr)	9:30 AM	X
+927	1218	Vaden Health Center (Campus Dr)	9:33 AM	X
+928	1219	Graduate School of Business (Serra St)	9:36 AM	X
+929	1220	Visitor Center (Galvez St)	9:39 AM	X
+930	1221	Town and Country Village (El Camino Real) 	9:41 AM	X
+931	1222	Palo Alto Transit Center (Caltrain Platform) 	9:49 AM	X
+932	1223	Palo Alto Transit Center (Caltrain Platform) 	9:18 AM	X
+933	1225	Medical Center (Quarry Extension) 	9:28 AM	X
+934	1234	Palo Alto Transit Center (Caltrain Platform) 	9:18 AM	X
+935	1235	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:21 AM	X
+936	1236	Medical Center (Quarry Extension) 	9:25 AM	X
+937	1237	Y2E2 (Across Street On Via Ortega) 	9:27 AM	X
+938	1238	Campus Dr (Across Street from Li Ka Shing Center)	9:29 AM	X
+939	1245	Palo Alto Transit Center (Caltrain Platform) 	9:22 AM	X
+940	1246	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:25 AM	X
+941	1247	Medical Center (Quarry Extension) 	9:29 AM	X
+942	1248	Y2E2 (Across Street On Via Ortega) 	9:31 AM	X
+943	1249	Campus Dr (Across Street from Li Ka Shing Center)	9:33 AM	X
+944	1256	Palo Alto Transit Center (Caltrain Platform) 	9:37 AM	X
+945	1257	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:40 AM	X
+946	1258	Medical Center (Quarry Extension) 	9:44 AM	X
+947	1259	Y2E2 (Across Street On Via Ortega) 	9:46 AM	X
+948	1261	Tresidder Union (Lagunita Dr)	9:53 AM	X
+949	1262	Vaden Health Center (Campus Dr)	9:56 AM	X
+950	1263	Graduate School of Business (Serra St)	9:59 AM	X
+951	1264	Visitor Center (Galvez St)	10:02 AM	X
+952	1265	Town and Country Village (El Camino Real) 	10:04 AM	X
+953	1266	Palo Alto Transit Center (Caltrain Platform) 	10:12 AM	X
+954	1267	Palo Alto Transit Center (Caltrain Platform) 	9:54 AM	X
+955	1268	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:57 AM	X
+956	1269	Medical Center (Quarry Extension) 	10:01 AM	X
+957	1270	Y2E2 (Across Street On Via Ortega) 	10:03 AM	X
+958	1272	Tresidder Union (Lagunita Dr)	10:10 AM	X
+959	1273	Vaden Health Center (Campus Dr)	10:13 AM	X
+960	1274	Graduate School of Business (Serra St)	10:16 AM	X
+961	1275	Visitor Center (Galvez St)	10:19 AM	X
+962	1276	Town and Country Village (El Camino Real) 	10:21 AM	X
+963	1277	Palo Alto Transit Center (Caltrain Platform) 	10:29 AM	X
+964	1278	Palo Alto Transit Center (Caltrain Platform) 	10:15 AM	X
+965	1279	Stanford Shopping Center (Quarry Rd Near Pear Ln)	10:18 AM	X
+966	1280	Medical Center (Quarry Extension) 	10:22 AM	X
+967	1281	Y2E2 (Across Street On Via Ortega) 	10:24 AM	X
+968	1283	Tresidder Union (Lagunita Dr)	10:31 AM	X
+969	1284	Vaden Health Center (Campus Dr)	10:34 AM	X
+970	1285	Graduate School of Business (Serra St)	10:37 AM	X
+971	1286	Visitor Center (Galvez St)	10:40 AM	X
+972	1287	Town and Country Village (El Camino Real) 	10:42 AM	X
+973	1288	Palo Alto Transit Center (Caltrain Platform) 	10:50 AM	X
+974	1289	Palo Alto Transit Center (Caltrain Platform) 	10:35 AM	X
+975	1290	Stanford Shopping Center (Quarry Rd Near Pear Ln)	10:38 AM	X
+976	1291	Medical Center (Quarry Extension) 	10:42 AM	X
+977	1292	Y2E2 (Across Street On Via Ortega) 	10:44 AM	X
+978	1294	Tresidder Union (Lagunita Dr)	10:51 AM	X
+979	1295	Vaden Health Center (Campus Dr)	10:54 AM	X
+980	1296	Graduate School of Business (Serra St)	10:57 AM	X
+981	1297	Visitor Center (Galvez St)	11:00 AM	X
+982	1298	Town and Country Village (El Camino Real) 	11:02 AM	X
+983	1299	Palo Alto Transit Center (Caltrain Platform) 	11:10 AM	X
+984	1300	Palo Alto Transit Center (Caltrain Platform) 	10:55 AM	X
+985	1301	Stanford Shopping Center (Quarry Rd Near Pear Ln)	10:58 AM	X
+986	1302	Medical Center (Quarry Extension) 	11:02 AM	X
+987	1303	Y2E2 (Across Street On Via Ortega) 	11:04 AM	X
+988	1305	Tresidder Union (Lagunita Dr)	11:11 AM	X
+989	1306	Vaden Health Center (Campus Dr)	11:14 AM	X
+990	1307	Graduate School of Business (Serra St)	11:17 AM	X
+991	1308	Visitor Center (Galvez St)	11:20 AM	X
+992	1309	Town and Country Village (El Camino Real) 	11:22 AM	X
+993	1310	Palo Alto Transit Center (Caltrain Platform) 	11:30 AM	X
+994	1311	Palo Alto Transit Center (Caltrain Platform) 	11:15 AM	X
+995	1312	Stanford Shopping Center (Quarry Rd Near Pear Ln)	11:18 AM	X
+996	1313	Medical Center (Quarry Extension) 	11:22 AM	X
+997	1314	Y2E2 (Across Street On Via Ortega) 	11:24 AM	X
+998	1316	Tresidder Union (Lagunita Dr)	11:31 AM	X
+999	1317	Vaden Health Center (Campus Dr)	11:34 AM	X
+1000	1318	Graduate School of Business (Serra St)	11:37 AM	X
+1001	1319	Visitor Center (Galvez St)	11:40 AM	X
+1002	1320	Town and Country Village (El Camino Real) 	11:42 AM	X
+1003	1321	Palo Alto Transit Center (Caltrain Platform) 	11:50 AM	X
+1004	1322	Palo Alto Transit Center (Caltrain Platform) 	11:35 AM	X
+1005	1323	Stanford Shopping Center (Quarry Rd Near Pear Ln)	11:38 AM	X
+1006	1324	Medical Center (Quarry Extension) 	11:42 AM	X
+1007	1325	Y2E2 (Across Street On Via Ortega) 	11:44 AM	X
+1008	1327	Tresidder Union (Lagunita Dr)	11:51 AM	X
+1009	1328	Vaden Health Center (Campus Dr)	11:54 AM	X
+1010	1329	Graduate School of Business (Serra St)	11:57 AM	X
+1011	1330	Visitor Center (Galvez St)	12:00 PM	X
+1012	1331	Town and Country Village (El Camino Real) 	12:02 PM	X
+1013	1332	Palo Alto Transit Center (Caltrain Platform) 	12:10 PM	X
+1014	1334	Palo Alto Transit Center (Caltrain Platform) 	6:13 AM	Y
+1015	1335	Galvez St @ El Camino Real 	6:16 AM	Y
+1016	1336	Alumni Center (Galvez St)	6:18 AM	Y
+1017	1337	Schwab Residential Center (Serra St)	6:20 AM	Y
+1018	1338	Wilbur Field Garage (Campus Dr)	6:23 AM	Y
+1019	1339	Tresidder Union (Lagunita Dr)	6:31 AM	Y
+1020	1341	Y2E2 (Via Ortega) 	6:35 AM	Y
+1021	1342	Medical Center (Roth Way)	6:37 AM	Y
+1022	1343	Palo Alto Transit Center (Caltrain Platform) 	6:48 AM	Y
+1023	1344	Palo Alto Transit Center (Caltrain Platform) 	6:31 AM	Y
+1024	1345	Galvez St @ El Camino Real 	6:34 AM	Y
+1025	1346	Alumni Center (Galvez St)	6:36 AM	Y
+1026	1347	Schwab Residential Center (Serra St)	6:38 AM	Y
+1027	1348	Wilbur Field Garage (Campus Dr)	6:41 AM	Y
+1028	1349	Tresidder Union (Lagunita Dr)	6:49 AM	Y
+1029	1351	Y2E2 (Via Ortega) 	6:53 AM	Y
+1030	1352	Medical Center (Roth Way)	6:55 AM	Y
+1031	1353	Palo Alto Transit Center (Caltrain Platform) 	7:06 AM	Y
+1032	1354	Palo Alto Transit Center (Caltrain Platform) 	6:48 AM	Y
+1033	1355	Galvez St @ El Camino Real 	6:51 AM	Y
+1034	1356	Alumni Center (Galvez St)	6:53 AM	Y
+1035	1357	Schwab Residential Center (Serra St)	6:55 AM	Y
+1036	1358	Wilbur Field Garage (Campus Dr)	6:58 AM	Y
+1037	1359	Tresidder Union (Lagunita Dr)	7:06 AM	Y
+1038	1361	Y2E2 (Via Ortega) 	7:10 AM	Y
+1039	1362	Medical Center (Roth Way)	7:12 AM	Y
+1040	1363	Palo Alto Transit Center (Caltrain Platform) 	7:23 AM	Y
+1041	1364	Palo Alto Transit Center (Caltrain Platform) 	7:13 AM	Y
+1042	1365	Galvez St @ El Camino Real 	7:16 AM	Y
+1043	1366	Alumni Center (Galvez St)	7:18 AM	Y
+1044	1367	Schwab Residential Center (Serra St)	7:20 AM	Y
+1045	1368	Wilbur Field Garage (Campus Dr)	7:23 AM	Y
+1046	1369	Tresidder Union (Lagunita Dr)	7:31 AM	Y
+1047	1371	Y2E2 (Via Ortega) 	7:35 AM	Y
+1048	1372	Medical Center (Roth Way)	7:37 AM	Y
+1049	1373	Palo Alto Transit Center (Caltrain Platform) 	7:48 AM	Y
+1050	1374	Palo Alto Transit Center (Caltrain Platform) 	7:22 AM	Y
+1051	1376	Alumni Center (Galvez St)	7:27 AM	Y
+1052	1377	Schwab Residential Center (Serra St)	7:29 AM	Y
+1053	1378	Wilbur Field Garage (Campus Dr)	7:32 AM	Y
+1054	1379	Tresidder Union (Lagunita Dr)	7:40 AM	Y
+1055	1384	Palo Alto Transit Center (Caltrain Platform) 	7:31 AM	Y
+1056	1385	Galvez St @ El Camino Real 	7:34 AM	Y
+1057	1386	Alumni Center (Galvez St)	7:36 AM	Y
+1058	1387	Schwab Residential Center (Serra St)	7:38 AM	Y
+1059	1388	Wilbur Field Garage (Campus Dr)	7:41 AM	Y
+1060	1389	Tresidder Union (Lagunita Dr)	7:49 AM	Y
+1061	1391	Y2E2 (Via Ortega) 	7:53 AM	Y
+1062	1392	Medical Center (Roth Way)	7:55 AM	Y
+1063	1393	Palo Alto Transit Center (Caltrain Platform) 	8:06 AM	Y
+1064	1394	Palo Alto Transit Center (Caltrain Platform) 	7:34 AM	Y
+1065	1396	Alumni Center (Galvez St)	7:39 AM	Y
+1066	1397	Schwab Residential Center (Serra St)	7:41 AM	Y
+1067	1398	Wilbur Field Garage (Campus Dr)	7:44 AM	Y
+1068	1399	Tresidder Union (Lagunita Dr)	7:52 AM	Y
+1069	1404	Palo Alto Transit Center (Caltrain Platform) 	7:41 AM	Y
+1070	1406	Alumni Center (Galvez St)	7:46 AM	Y
+1071	1407	Schwab Residential Center (Serra St)	7:48 AM	Y
+1072	1408	Wilbur Field Garage (Campus Dr)	7:51 AM	Y
+1073	1409	Tresidder Union (Lagunita Dr)	7:59 AM	Y
+1074	1414	Palo Alto Transit Center (Caltrain Platform) 	7:50 AM	Y
+1075	1415	Galvez St @ El Camino Real 	7:53 AM	Y
+1076	1416	Alumni Center (Galvez St)	7:55 AM	Y
+1077	1417	Schwab Residential Center (Serra St)	7:57 AM	Y
+1078	1418	Wilbur Field Garage (Campus Dr)	8:00 AM	Y
+1079	1419	Tresidder Union (Lagunita Dr)	8:08 AM	Y
+1080	1421	Y2E2 (Via Ortega) 	8:12 AM	Y
+1081	1422	Medical Center (Roth Way)	8:14 AM	Y
+1082	1423	Palo Alto Transit Center (Caltrain Platform) 	8:25 AM	Y
+1083	1424	Palo Alto Transit Center (Caltrain Platform) 	7:54 AM	Y
+1084	1426	Alumni Center (Galvez St)	7:59 AM	Y
+1085	1427	Schwab Residential Center (Serra St)	8:01 AM	Y
+1086	1428	Wilbur Field Garage (Campus Dr)	8:04 AM	Y
+1087	1429	Tresidder Union (Lagunita Dr)	8:12 AM	Y
+1088	1434	Palo Alto Transit Center (Caltrain Platform) 	8:14 AM	Y
+1089	1435	Galvez St @ El Camino Real 	8:17 AM	Y
+1090	1436	Alumni Center (Galvez St)	8:19 AM	Y
+1091	1437	Schwab Residential Center (Serra St)	8:21 AM	Y
+1092	1438	Wilbur Field Garage (Campus Dr)	8:24 AM	Y
+1093	1439	Tresidder Union (Lagunita Dr)	8:32 AM	Y
+1094	1441	Y2E2 (Via Ortega) 	8:36 AM	Y
+1095	1442	Medical Center (Roth Way)	8:38 AM	Y
+1096	1443	Palo Alto Transit Center (Caltrain Platform) 	8:49 AM	Y
+1097	1444	Palo Alto Transit Center (Caltrain Platform) 	8:22 AM	Y
+1098	1446	Alumni Center (Galvez St)	8:27 AM	Y
+1099	1447	Schwab Residential Center (Serra St)	8:29 AM	Y
+1100	1448	Wilbur Field Garage (Campus Dr)	8:32 AM	Y
+1101	1449	Tresidder Union (Lagunita Dr)	8:40 AM	Y
+1102	1454	Palo Alto Transit Center (Caltrain Platform) 	8:32 AM	Y
+1103	1455	Galvez St @ El Camino Real 	8:35 AM	Y
+1104	1456	Alumni Center (Galvez St)	8:37 AM	Y
+1105	1457	Schwab Residential Center (Serra St)	8:39 AM	Y
+1106	1458	Wilbur Field Garage (Campus Dr)	8:42 AM	Y
+1107	1459	Tresidder Union (Lagunita Dr)	8:50 AM	Y
+1108	1461	Y2E2 (Via Ortega) 	8:54 AM	Y
+1109	1462	Medical Center (Roth Way)	8:56 AM	Y
+1110	1463	Palo Alto Transit Center (Caltrain Platform) 	9:07 AM	Y
+1111	1464	Palo Alto Transit Center (Caltrain Platform) 	8:34 AM	Y
+1112	1466	Alumni Center (Galvez St)	8:39 AM	Y
+1113	1467	Schwab Residential Center (Serra St)	8:41 AM	Y
+1114	1468	Wilbur Field Garage (Campus Dr)	8:44 AM	Y
+1115	1469	Tresidder Union (Lagunita Dr)	8:52 AM	Y
+1116	1474	Palo Alto Transit Center (Caltrain Platform) 	8:42 AM	Y
+1117	1476	Alumni Center (Galvez St)	8:47 AM	Y
+1118	1477	Schwab Residential Center (Serra St)	8:49 AM	Y
+1119	1478	Wilbur Field Garage (Campus Dr)	8:52 AM	Y
+1120	1479	Tresidder Union (Lagunita Dr)	9:00 AM	Y
+1121	1484	Palo Alto Transit Center (Caltrain Platform) 	8:50 AM	Y
+1122	1485	Galvez St @ El Camino Real 	8:53 AM	Y
+1123	1486	Alumni Center (Galvez St)	8:55 AM	Y
+1124	1487	Schwab Residential Center (Serra St)	8:57 AM	Y
+1125	1488	Wilbur Field Garage (Campus Dr)	9:00 AM	Y
+1126	1489	Tresidder Union (Lagunita Dr)	9:08 AM	Y
+1127	1491	Y2E2 (Via Ortega) 	9:12 AM	Y
+1128	1492	Medical Center (Roth Way)	9:14 AM	Y
+1129	1493	Palo Alto Transit Center (Caltrain Platform) 	9:25 AM	Y
+1130	1494	Palo Alto Transit Center (Caltrain Platform) 	8:54 AM	Y
+1131	1496	Alumni Center (Galvez St)	8:59 AM	Y
+1132	1497	Schwab Residential Center (Serra St)	9:01 AM	Y
+1133	1498	Wilbur Field Garage (Campus Dr)	9:04 AM	Y
+1134	1499	Tresidder Union (Lagunita Dr)	9:12 AM	Y
+1135	1504	Palo Alto Transit Center (Caltrain Platform) 	9:14 AM	Y
+1136	1505	Galvez St @ El Camino Real 	9:17 AM	Y
+1137	1506	Alumni Center (Galvez St)	9:19 AM	Y
+1138	1507	Schwab Residential Center (Serra St)	9:21 AM	Y
+1139	1508	Wilbur Field Garage (Campus Dr)	9:24 AM	Y
+1140	1509	Tresidder Union (Lagunita Dr)	9:32 AM	Y
+1141	1511	Y2E2 (Via Ortega) 	9:36 AM	Y
+1142	1512	Medical Center (Roth Way)	9:38 AM	Y
+1143	1513	Palo Alto Transit Center (Caltrain Platform) 	9:49 AM	Y
+1144	1514	Palo Alto Transit Center (Caltrain Platform) 	9:18 AM	Y
+1145	1516	Alumni Center (Galvez St)	9:23 AM	Y
+1146	1517	Schwab Residential Center (Serra St)	9:25 AM	Y
+1147	1518	Wilbur Field Garage (Campus Dr)	9:28 AM	Y
+1148	1519	Tresidder Union (Lagunita Dr)	9:36 AM	Y
+1149	1524	Palo Alto Transit Center (Caltrain Platform) 	9:22 AM	Y
+1150	1526	Alumni Center (Galvez St)	9:27 AM	Y
+1151	1527	Schwab Residential Center (Serra St)	9:29 AM	Y
+1152	1528	Wilbur Field Garage (Campus Dr)	9:32 AM	Y
+1153	1529	Tresidder Union (Lagunita Dr)	9:40 AM	Y
+1154	1534	Palo Alto Transit Center (Caltrain Platform) 	9:37 AM	Y
+1155	1535	Galvez St @ El Camino Real 	9:40 AM	Y
+1156	1536	Alumni Center (Galvez St)	9:42 AM	Y
+1157	1537	Schwab Residential Center (Serra St)	9:44 AM	Y
+1158	1538	Wilbur Field Garage (Campus Dr)	9:47 AM	Y
+1159	1539	Tresidder Union (Lagunita Dr)	9:55 AM	Y
+1160	1541	Y2E2 (Via Ortega) 	9:59 AM	Y
+1161	1542	Medical Center (Roth Way)	10:01 AM	Y
+1162	1543	Palo Alto Transit Center (Caltrain Platform) 	10:12 AM	Y
+1163	1544	Palo Alto Transit Center (Caltrain Platform) 	9:54 AM	Y
+1164	1545	Galvez St @ El Camino Real 	9:57 AM	Y
+1165	1546	Alumni Center (Galvez St)	9:59 AM	Y
+1166	1547	Schwab Residential Center (Serra St)	10:01 AM	Y
+1167	1548	Wilbur Field Garage (Campus Dr)	10:04 AM	Y
+1168	1549	Tresidder Union (Lagunita Dr)	10:12 AM	Y
+1169	1551	Y2E2 (Via Ortega) 	10:16 AM	Y
+1170	1552	Medical Center (Roth Way)	10:18 AM	Y
+1171	1553	Palo Alto Transit Center (Caltrain Platform) 	10:29 AM	Y
+1172	1554	Palo Alto Transit Center (Caltrain Platform) 	10:15 AM	Y
+1173	1555	Galvez St @ El Camino Real 	10:18 AM	Y
+1174	1556	Alumni Center (Galvez St)	10:20 AM	Y
+1175	1557	Schwab Residential Center (Serra St)	10:22 AM	Y
+1176	1558	Wilbur Field Garage (Campus Dr)	10:25 AM	Y
+1177	1559	Tresidder Union (Lagunita Dr)	10:33 AM	Y
+1178	1561	Y2E2 (Via Ortega) 	10:37 AM	Y
+1179	1562	Medical Center (Roth Way)	10:39 AM	Y
+1180	1563	Palo Alto Transit Center (Caltrain Platform) 	10:50 AM	Y
+1181	1564	Palo Alto Transit Center (Caltrain Platform) 	10:35 AM	Y
+1182	1565	Galvez St @ El Camino Real 	10:38 AM	Y
+1183	1566	Alumni Center (Galvez St)	10:40 AM	Y
+1184	1567	Schwab Residential Center (Serra St)	10:42 AM	Y
+1185	1568	Wilbur Field Garage (Campus Dr)	10:45 AM	Y
+1186	1569	Tresidder Union (Lagunita Dr)	10:53 AM	Y
+1187	1571	Y2E2 (Via Ortega) 	10:57 AM	Y
+1188	1572	Medical Center (Roth Way)	10:59 AM	Y
+1189	1573	Palo Alto Transit Center (Caltrain Platform) 	11:10 AM	Y
+1190	1574	Palo Alto Transit Center (Caltrain Platform) 	10:55 AM	Y
+1191	1575	Galvez St @ El Camino Real 	10:58 AM	Y
+1192	1576	Alumni Center (Galvez St)	11:00 AM	Y
+1193	1577	Schwab Residential Center (Serra St)	11:02 AM	Y
+1194	1578	Wilbur Field Garage (Campus Dr)	11:05 AM	Y
+1195	1579	Tresidder Union (Lagunita Dr)	11:13 AM	Y
+1196	1581	Y2E2 (Via Ortega) 	11:17 AM	Y
+1197	1582	Medical Center (Roth Way)	11:19 AM	Y
+1198	1583	Palo Alto Transit Center (Caltrain Platform) 	11:30 AM	Y
+1199	1584	Palo Alto Transit Center (Caltrain Platform) 	11:15 AM	Y
+1200	1585	Galvez St @ El Camino Real 	11:18 AM	Y
+1201	1586	Alumni Center (Galvez St)	11:20 AM	Y
+1202	1587	Schwab Residential Center (Serra St)	11:22 AM	Y
+1203	1588	Wilbur Field Garage (Campus Dr)	11:25 AM	Y
+1204	1589	Tresidder Union (Lagunita Dr)	11:33 AM	Y
+1205	1591	Y2E2 (Via Ortega) 	11:37 AM	Y
+1206	1592	Medical Center (Roth Way)	11:39 AM	Y
+1207	1593	Palo Alto Transit Center (Caltrain Platform) 	11:50 AM	Y
+1208	1594	Palo Alto Transit Center (Caltrain Platform) 	11:35 AM	Y
+1209	1595	Galvez St @ El Camino Real 	11:38 AM	Y
+1210	1596	Alumni Center (Galvez St)	11:40 AM	Y
+1211	1597	Schwab Residential Center (Serra St)	11:42 AM	Y
+1212	1598	Wilbur Field Garage (Campus Dr)	11:45 AM	Y
+1213	1599	Tresidder Union (Lagunita Dr)	11:53 AM	Y
+1214	1601	Y2E2 (Via Ortega) 	11:57 AM	Y
+1215	1602	Medical Center (Roth Way)	11:59 AM	Y
+1216	1603	Palo Alto Transit Center (Caltrain Platform) 	12:10 PM	Y
+1217	1604	Palo Alto Transit Center (Caltrain Platform) 	11:55 AM	Y
+1218	1605	Galvez St @ El Camino Real 	11:58 AM	Y
+1219	1606	Alumni Center (Galvez St)	12:00 PM	Y
+1220	1607	Schwab Residential Center (Serra St)	12:02 PM	Y
+1221	1608	Wilbur Field Garage (Campus Dr)	12:05 PM	Y
+1222	1609	Tresidder Union (Lagunita Dr)	12:13 PM	Y
+1223	1611	Y2E2 (Via Ortega) 	12:17 PM	Y
+1224	1612	Medical Center (Roth Way)	12:19 PM	Y
+1225	1613	Palo Alto Transit Center (Caltrain Platform) 	12:30 PM	Y
+1226	1614	Palo Alto Transit Center (Caltrain Platform) 	12:15 PM	Y
+1227	1615	Galvez St @ El Camino Real 	12:18 PM	Y
+1228	1616	Alumni Center (Galvez St)	12:20 PM	Y
+1229	1617	Schwab Residential Center (Serra St)	12:22 PM	Y
+1230	1618	Wilbur Field Garage (Campus Dr)	12:25 PM	Y
+1231	1619	Tresidder Union (Lagunita Dr)	12:33 PM	Y
+1232	1621	Y2E2 (Via Ortega) 	12:37 PM	Y
+1233	1622	Medical Center (Roth Way)	12:39 PM	Y
+1234	1623	Palo Alto Transit Center (Caltrain Platform) 	12:50 PM	Y
+1235	1624	Palo Alto Transit Center (Caltrain Platform) 	12:35 PM	Y
+1236	1625	Galvez St @ El Camino Real 	12:38 PM	Y
+1237	1626	Alumni Center (Galvez St)	12:40 PM	Y
+1238	1627	Schwab Residential Center (Serra St)	12:42 PM	Y
+1239	1628	Wilbur Field Garage (Campus Dr)	12:45 PM	Y
+1240	1629	Tresidder Union (Lagunita Dr)	12:53 PM	Y
+1241	1631	Y2E2 (Via Ortega) 	12:57 PM	Y
+1242	1632	Medical Center (Roth Way)	12:59 PM	Y
+1243	1633	Palo Alto Transit Center (Caltrain Platform) 	1:10 PM	Y
+1244	1634	Palo Alto Transit Center (Caltrain Platform) 	12:55 PM	Y
+1245	1635	Galvez St @ El Camino Real 	12:58 PM	Y
+1246	1636	Alumni Center (Galvez St)	1:00 PM	Y
+1247	1637	Schwab Residential Center (Serra St)	1:02 PM	Y
+1248	1638	Wilbur Field Garage (Campus Dr)	1:05 PM	Y
+1249	1639	Tresidder Union (Lagunita Dr)	1:13 PM	Y
+1250	1641	Y2E2 (Via Ortega) 	1:17 PM	Y
+1251	1642	Medical Center (Roth Way)	1:19 PM	Y
+1252	1643	Palo Alto Transit Center (Caltrain Platform) 	1:30 PM	Y
+1253	1644	Li Ka Shing Center (Campus Dr) 	General	
+1254	1645	Y2E2 (Via Ortega) 	General	
+1255	1646	Main Quad (Memorial Church)	General	
+1256	1647	California Ave @ Yale St	General	
+1257	1648	1500 Page Mill Rd	General	
+1258	1649	3170 Porter Dr	General	
+1259	1650	1050/1070 Arastradero Rd	General	
+1260	1651	3165 Porter Dr	General	
+1261	1652	Page Mill Rd (Peter Coutts East)	General	
+1262	1653	El Camino Real @ California Ave 	General	
+1263	1654	Main Quad (Campus Oval Side) 	General	
+1264	1655	Vi at Palo Alto	General	
+1265	1656	Stanford West Apartments (Clark Way)	General	
+1266	1657	Across Street From Lucas Center (Welch Rd) 	General	
+1267	1658	Stock Farm Garage	General	
+1268	1659	Campus Dr (Across Street from Li Ka Shing Center)	General	
+1269	1660	Main Quad (Memorial Church) 	General	
+1270	1661	Schwab Residential Center (Serra St)	General	
+1271	1662	Olmsted Rd @ Hulme Crt	General	
+1272	1663	Olmsted Rd @ Wellesley St	General	
+1273	1664	Bowdoin St @ Pine Hill Rd	General	
+1274	1665	Graduate School of Business (Serra St)	General	
+1275	1666	Lucas Center (Welch Rd) 	General	
+1276	1667	Stanford West Apartments (Clark Way Across Street From Office) 	General	
+1277	1668	Palo Alto Transit Center (Caltrain Platform South) 	General	
+1278	1669	Stanford Shopping Center (Quarry Rd Near Pear Ln)	General	
+1279	1670	Stanford Barn (700 Welch Rd) 	General	
+1280	1671	780 Welch Rd	General	
+1281	1672	1000 Welch Rd	General	
+1282	1673	Stanford Hospital (Pasteur Dr) 	General	
+1283	1674	1101 Welch Rd	General	
+1284	1675	801 Welch Rd	General	
+1285	1676	Hoover Pavilion (Quarry Rd) 	General	
+1286	1677	Palo Alto Transit Center (Caltrain Platform South)	General	
+1287	1678	Palo Alto Transit Center (Bus Depot)	General	
+1288	1679	Wells Fargo (El Camino Real @ California Ave) 	General	
+1289	1680	Page Mill Rd @ El Camino Real	General	
+1290	1681	Page Mill Rd @ Hanover St	General	
+1291	1682	Hillview Ave @ Coyote Hill Rd	General	
+1292	1683	3475 Deer Creek Rd	General	
+1293	1684	Oak Creek Apartments (Across Street On Sand Hill Rd)	General	
+1294	1685	Stanford West Apartments (Clark Way Across Street From Office)	General	
+1295	1686	Palo Alto Transit Center (Bus Depot Drop Off)	General	
+1296	1687	Palo Alto Transit Center (Bus Depot Pick Up)	General	
+1297	1688	Crate & Barrel (Quarry Rd)	General	
+1298	1689	Sand Hill Rd @ Clark Way	General	
+1299	1690	Oak Creek Apartments (Sand Hill Rd)	General	
+1300	1691	Sharon Park Shopping Center (Sand Hill Rd)	General	
+1301	1692	Rosewood Hotel (In Parking Lot)	General	
+1302	1693	Stanford Guest House (In Parking Lot)	General	
+1303	1694	Hoover Pavilion Garage (Inside Lot 1) 	General	
+1304	1695	780 Welch Rd 	General	
+1305	1696	1000 Welch Rd 	General	
+1306	1697	Palo Alto Transit Center (Caltrain Platform) 	General	
+1307	1698	Medical Center (Quarry Extension) 	General	
+1308	1699	Y2E2 (Across Street On Via Ortega) 	General	
+1309	1700	Tresidder Union (Lagunita Dr)	General	
+1310	1701	Vaden Health Center (Campus Dr)	General	
+1311	1702	Visitor Center (Galvez St)	General	
+1312	1703	Town and Country Village (El Camino Real) 	General	
+1313	1704	Galvez St @ El Camino Real 	General	
+1314	1705	Alumni Center (Galvez St)	General	
+1315	1706	Wilbur Field Garage (Campus Dr)	General	
+1316	1707	Medical Center (Roth Way)	General	
+1317	1708	Palo Alto Transit Center (Caltrain Platform South) 	9:27 AM	Medical Center
+1318	1709	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:30 AM	Medical Center
+1319	1710	Stanford Barn (700 Welch Rd) 	9:33 AM	Medical Center
+1320	1711	780 Welch Rd	9:34 AM	Medical Center
+1321	1712	1000 Welch Rd	9:35 AM	Medical Center
+1322	1713	Across Street From Lucas Center (Welch Rd) 	9:37 AM	Medical Center
+1323	1714	Palo Alto Transit Center (Caltrain Platform South)	9:52 AM	Medical Center
+1324	1715	Palo Alto Transit Center (Caltrain Platform South) 	9:40 AM	Medical Center
+1325	1716	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:43 AM	Medical Center
+1326	1717	Stanford Barn (700 Welch Rd) 	9:46 AM	Medical Center
+1327	1718	780 Welch Rd	9:47 AM	Medical Center
+1328	1719	1000 Welch Rd	9:48 AM	Medical Center
+1329	1720	Across Street From Lucas Center (Welch Rd) 	9:50 AM	Medical Center
+1330	1721	Palo Alto Transit Center (Caltrain Platform South)	10:05 AM	Medical Center
+1331	1722	Palo Alto Transit Center (Caltrain Platform South) 	9:54 AM	Medical Center
+1332	1723	Stanford Shopping Center (Quarry Rd Near Pear Ln)	9:57 AM	Medical Center
+1333	1724	Stanford Barn (700 Welch Rd) 	10:00 AM	Medical Center
+1334	1725	780 Welch Rd	10:01 AM	Medical Center
+1335	1726	1000 Welch Rd	10:02 AM	Medical Center
+1336	1727	Across Street From Lucas Center (Welch Rd) 	10:04 AM	Medical Center
+1337	1728	Palo Alto Transit Center (Caltrain Platform South)	10:19 AM	Medical Center
+1338	1729	Palo Alto Transit Center (Caltrain Platform South) 	10:10 AM	Medical Center
+1339	1730	Stanford Shopping Center (Quarry Rd Near Pear Ln)	10:13 AM	Medical Center
+1340	1731	Stanford Barn (700 Welch Rd) 	10:16 AM	Medical Center
+1341	1732	780 Welch Rd	10:17 AM	Medical Center
+1342	1733	1000 Welch Rd	10:18 AM	Medical Center
+1343	1734	Stanford Hospital (Pasteur Dr) 	10:21 AM	Medical Center
+1344	1735	1101 Welch Rd	10:23 AM	Medical Center
+1345	1736	801 Welch Rd	10:24 AM	Medical Center
+1346	1737	Hoover Pavilion (Quarry Rd) 	10:28 AM	Medical Center
+1347	1738	Palo Alto Transit Center (Caltrain Platform South)	10:35 AM	Medical Center
+1348	1739	Palo Alto Transit Center (Caltrain Platform South) 	10:45 AM	Medical Center
+1349	1740	Stanford Shopping Center (Quarry Rd Near Pear Ln)	10:48 AM	Medical Center
+1350	1741	Stanford Barn (700 Welch Rd) 	10:51 AM	Medical Center
+1351	1742	780 Welch Rd	10:52 AM	Medical Center
+1352	1743	1000 Welch Rd	10:53 AM	Medical Center
+1353	1744	Stanford Hospital (Pasteur Dr) 	10:56 AM	Medical Center
+1354	1745	1101 Welch Rd	10:58 AM	Medical Center
+1355	1746	801 Welch Rd	10:59 AM	Medical Center
+1356	1747	Hoover Pavilion (Quarry Rd) 	11:03 AM	Medical Center
+1357	1748	Palo Alto Transit Center (Caltrain Platform South)	11:10 AM	Medical Center
+1358	1749	Palo Alto Transit Center (Caltrain Platform South) 	11:15 AM	Medical Center
+1359	1750	Stanford Shopping Center (Quarry Rd Near Pear Ln)	11:18 AM	Medical Center
+1360	1751	Stanford Barn (700 Welch Rd) 	11:21 AM	Medical Center
+1361	1752	780 Welch Rd	11:22 AM	Medical Center
+1362	1753	1000 Welch Rd	11:23 AM	Medical Center
+1363	1754	Stanford Hospital (Pasteur Dr) 	11:26 AM	Medical Center
+1364	1755	1101 Welch Rd	11:28 AM	Medical Center
+1365	1756	801 Welch Rd	11:29 AM	Medical Center
+1366	1757	Hoover Pavilion (Quarry Rd) 	11:33 AM	Medical Center
+1367	1758	Palo Alto Transit Center (Caltrain Platform South)	11:40 AM	Medical Center
+1368	1759	Palo Alto Transit Center (Caltrain Platform South) 	11:50 AM	Medical Center
+1369	1760	Stanford Shopping Center (Quarry Rd Near Pear Ln)	11:53 AM	Medical Center
+1370	1761	Stanford Barn (700 Welch Rd) 	11:56 AM	Medical Center
+1371	1762	780 Welch Rd	11:57 AM	Medical Center
+1372	1763	1000 Welch Rd	11:58 AM	Medical Center
+1373	1764	Stanford Hospital (Pasteur Dr) 	12:01 PM	Medical Center
+1374	1765	1101 Welch Rd	12:03 PM	Medical Center
+1375	1766	801 Welch Rd	12:04 PM	Medical Center
+1376	1767	Hoover Pavilion (Quarry Rd) 	12:08 PM	Medical Center
+1377	1768	Palo Alto Transit Center (Caltrain Platform South)	12:15 PM	Medical Center
+1378	1769	Li Ka Shing Center	General	
+1379	1770	Y2E2	General	
+1380	1771	Main Quad	General	
+1381	1772	California Ave	General	
+1382	1773	1500 Page Mill Rd	General	
+1383	1774	3170 Porter Dr	General	
+1384	1775	1050/1070 Arastradero Rd	General	
+1385	1776	3165 Porter Dr	General	
+1386	1777	Page Mill Rd	General	
+1387	1778	El Camino Real	General	
+1388	1779	Vi at Palo Alto	General	
+1389	1780	Stanford West Apartments	General	
+1390	1781	Across Street From Lucas Center	General	
+1391	1782	Stock Farm Garage	General	
+1392	1783	Campus Dr	General	
+1393	1784	Schwab Residential Center	General	
+1394	1785	Olmsted Rd	General	
+1395	1786	Bowdoin St	General	
+1396	1787	Graduate School of Business	General	
+1397	1788	Lucas Center	General	
+1398	1789	Palo Alto Transit Center	General	
+1399	1790	Stanford Shopping Center	General	
+1400	1791	Stanford Barn	General	
+1401	1792	780 Welch Rd	General	
+1402	1793	1000 Welch Rd	General	
+1403	1794	Stanford Hospital	General	
+1404	1795	1101 Welch Rd	General	
+1405	1796	801 Welch Rd	General	
+1406	1797	Hoover Pavilion	General	
+1407	1798	Wells Fargo	General	
+1408	1799	Hillview Ave	General	
+1409	1800	3475 Deer Creek Rd	General	
+1410	1801	Oak Creek Apartments	General	
+1411	1802	Crate & Barrel	General	
+1412	1803	Sand Hill Rd	General	
+1413	1804	Sharon Park Shopping Center	General	
+1414	1805	Rosewood Hotel	General	
+1415	1806	Stanford Guest House	General	
+1416	1807	Hoover Pavilion Garage	General	
+1417	1808	780 Welch Rd 	General	
+1418	1809	1000 Welch Rd 	General	
+1419	1810	Medical Center	General	
+1420	1811	Tresidder Union	General	
+1421	1812	Vaden Health Center	General	
+1422	1813	Visitor Center	General	
+1423	1814	Town and Country Village	General	
+1424	1815	Galvez St	General	
+1425	1816	Alumni Center	General	
+1426	1817	Wilbur Field Garage	General	
