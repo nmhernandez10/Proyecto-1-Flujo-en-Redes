@@ -1,1 +1,7 @@
-Este recorrido le toma un total de 0 minutos
+Pasa por estación Oak-Creek-Apartments-(Across-Street-On-Sand-Hill-Rd) a las 8:01 AM tomando la ruta S
+Pasa por estación Stanford-West-Apartments-(Clark-Way-Across-Street-From-Office) a las 8:03 AM tomando la ruta S
+Trasbordo en la estación Stanford-West-Apartments-(Clark-Way) a las 8:04 AM tomando la ruta C
+Pasa por estación Across-Street-From-Lucas-Center-(Welch-Rd) a las 8:08 AM tomando la ruta C
+Pasa por estación Stock-Farm-Garage a las 8:14 AM tomando la ruta C
+Pasa por estación Campus-Dr-(Across-Street-from-Li-Ka-Shing-Center) a las 8:17 AM tomando la ruta C
+Este recorrido le toma un total de 16 minutos

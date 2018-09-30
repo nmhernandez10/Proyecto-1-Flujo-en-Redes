@@ -1251,70 +1251,70 @@ Fila	Nodo	Estación	Hora	M	Ruta
 1250	1641	Y2E2-(Via-Ortega) 	1:17 PM	Y
 1251	1642	Medical-Center-(Roth-Way)	1:19 PM	Y
 1252	1643	Palo-Alto-Transit-Center-(Caltrain-Platform) 	1:30 PM	Y
-1253	1644	Li-Ka-Shing-Center-(Campus-Dr) 	General	-
-1254	1645	Y2E2-(Via-Ortega) 	General	-
-1255	1646	Main-Quad-(Memorial-Church)	General	-
-1256	1647	California-Ave-@-Yale-St	General	-
-1257	1648	1500-Page-Mill-Rd	General	-
-1258	1649	3170-Porter-Dr	General	-
-1259	1650	1050/1070-Arastradero-Rd	General	-
-1260	1651	3165-Porter-Dr	General	-
-1261	1652	Page-Mill-Rd-(Peter-Coutts-East)	General	-
-1262	1653	El-Camino-Real-@-California-Ave 	General	-
-1263	1654	Main-Quad-(Campus-Oval-Side) 	General	-
-1264	1655	Vi-at-Palo-Alto	General	-
-1265	1656	Stanford-West-Apartments-(Clark-Way)	General	-
-1266	1657	Across-Street-From-Lucas-Center-(Welch-Rd) 	General	-
-1267	1658	Stock-Farm-Garage	General	-
-1268	1659	Campus-Dr-(Across-Street-from-Li-Ka-Shing-Center)	General	-
-1269	1660	Main-Quad-(Memorial-Church) 	General	-
-1270	1661	Schwab-Residential-Center-(Serra-St)	General	-
-1271	1662	Olmsted-Rd-@-Hulme-Crt	General	-
-1272	1663	Olmsted-Rd-@-Wellesley-St	General	-
-1273	1664	Bowdoin-St-@-Pine-Hill-Rd	General	-
-1274	1665	Graduate-School-of-Business-(Serra-St)	General	-
-1275	1666	Lucas-Center-(Welch-Rd) 	General	-
-1276	1667	Stanford-West-Apartments-(Clark-Way-Across-Street-From-Office) 	General	-
-1277	1668	Palo-Alto-Transit-Center-(Caltrain-Platform-South) 	General	-
-1278	1669	Stanford-Shopping-Center-(Quarry-Rd-Near-Pear-Ln)	General	-
-1279	1670	Stanford-Barn-(700-Welch-Rd) 	General	-
-1280	1671	780-Welch-Rd	General	-
-1281	1672	1000-Welch-Rd	General	-
-1282	1673	Stanford-Hospital-(Pasteur-Dr) 	General	-
-1283	1674	1101-Welch-Rd	General	-
-1284	1675	801-Welch-Rd	General	-
-1285	1676	Hoover-Pavilion-(Quarry-Rd) 	General	-
-1286	1677	Palo-Alto-Transit-Center-(Caltrain-Platform-South)	General	-
-1287	1678	Palo-Alto-Transit-Center-(Bus-Depot)	General	-
-1288	1679	Wells-Fargo-(El-Camino-Real-@-California-Ave) 	General	-
-1289	1680	Page-Mill-Rd-@-El-Camino-Real	General	-
-1290	1681	Page-Mill-Rd-@-Hanover-St	General	-
-1291	1682	Hillview-Ave-@-Coyote-Hill-Rd	General	-
-1292	1683	3475-Deer-Creek-Rd	General	-
-1293	1684	Oak-Creek-Apartments-(Across-Street-On-Sand-Hill-Rd)	General	-
-1294	1685	Stanford-West-Apartments-(Clark-Way-Across-Street-From-Office)	General	-
-1295	1686	Palo-Alto-Transit-Center-(Bus-Depot-Drop-Off)	General	-
-1296	1687	Palo-Alto-Transit-Center-(Bus-Depot-Pick-Up)	General	-
-1297	1688	Crate-&-Barrel-(Quarry-Rd)	General	-
-1298	1689	Sand-Hill-Rd-@-Clark-Way	General	-
-1299	1690	Oak-Creek-Apartments-(Sand-Hill-Rd)	General	-
-1300	1691	Sharon-Park-Shopping-Center-(Sand-Hill-Rd)	General	-
-1301	1692	Rosewood-Hotel-(In-Parking-Lot)	General	-
-1302	1693	Stanford-Guest-House-(In-Parking-Lot)	General	-
-1303	1694	Hoover-Pavilion-Garage-(Inside-Lot-1) 	General	-
-1304	1695	780-Welch-Rd 	General	-
-1305	1696	1000-Welch-Rd 	General	-
-1306	1697	Palo-Alto-Transit-Center-(Caltrain-Platform) 	General	-
-1307	1698	Medical-Center-(Quarry-Extension) 	General	-
-1308	1699	Y2E2-(Across-Street-On-Via-Ortega) 	General	-
-1309	1700	Tresidder-Union-(Lagunita-Dr)	General	-
-1310	1701	Vaden-Health-Center-(Campus-Dr)	General	-
-1311	1702	Visitor-Center-(Galvez-St)	General	-
-1312	1703	Town-and-Country-Village-(El-Camino-Real) 	General	-
-1313	1704	Galvez-St-@-El-Camino-Real 	General	-
-1314	1705	Alumni-Center-(Galvez-St)	General	-
-1315	1706	Wilbur-Field-Garage-(Campus-Dr)	General	-
-1316	1707	Medical-Center-(Roth-Way)	General	-
+1253	1644	Li-Ka-Shing-Center-(Campus-Dr) 	Nodo General	-
+1254	1645	Y2E2-(Via-Ortega) 	Nodo General	-
+1255	1646	Main-Quad-(Memorial-Church)	Nodo General	-
+1256	1647	California-Ave-@-Yale-St	Nodo General	-
+1257	1648	1500-Page-Mill-Rd	Nodo General	-
+1258	1649	3170-Porter-Dr	Nodo General	-
+1259	1650	1050/1070-Arastradero-Rd	Nodo General	-
+1260	1651	3165-Porter-Dr	Nodo General	-
+1261	1652	Page-Mill-Rd-(Peter-Coutts-East)	Nodo General	-
+1262	1653	El-Camino-Real-@-California-Ave 	Nodo General	-
+1263	1654	Main-Quad-(Campus-Oval-Side) 	Nodo General	-
+1264	1655	Vi-at-Palo-Alto	Nodo General	-
+1265	1656	Stanford-West-Apartments-(Clark-Way)	Nodo General	-
+1266	1657	Across-Street-From-Lucas-Center-(Welch-Rd) 	Nodo General	-
+1267	1658	Stock-Farm-Garage	Nodo General	-
+1268	1659	Campus-Dr-(Across-Street-from-Li-Ka-Shing-Center)	Nodo General	-
+1269	1660	Main-Quad-(Memorial-Church) 	Nodo General	-
+1270	1661	Schwab-Residential-Center-(Serra-St)	Nodo General	-
+1271	1662	Olmsted-Rd-@-Hulme-Crt	Nodo General	-
+1272	1663	Olmsted-Rd-@-Wellesley-St	Nodo General	-
+1273	1664	Bowdoin-St-@-Pine-Hill-Rd	Nodo General	-
+1274	1665	Graduate-School-of-Business-(Serra-St)	Nodo General	-
+1275	1666	Lucas-Center-(Welch-Rd) 	Nodo General	-
+1276	1667	Stanford-West-Apartments-(Clark-Way-Across-Street-From-Office) 	Nodo General	-
+1277	1668	Palo-Alto-Transit-Center-(Caltrain-Platform-South) 	Nodo General	-
+1278	1669	Stanford-Shopping-Center-(Quarry-Rd-Near-Pear-Ln)	Nodo General	-
+1279	1670	Stanford-Barn-(700-Welch-Rd) 	Nodo General	-
+1280	1671	780-Welch-Rd	Nodo General	-
+1281	1672	1000-Welch-Rd	Nodo General	-
+1282	1673	Stanford-Hospital-(Pasteur-Dr) 	Nodo General	-
+1283	1674	1101-Welch-Rd	Nodo General	-
+1284	1675	801-Welch-Rd	Nodo General	-
+1285	1676	Hoover-Pavilion-(Quarry-Rd) 	Nodo General	-
+1286	1677	Palo-Alto-Transit-Center-(Caltrain-Platform-South)	Nodo General	-
+1287	1678	Palo-Alto-Transit-Center-(Bus-Depot)	Nodo General	-
+1288	1679	Wells-Fargo-(El-Camino-Real-@-California-Ave) 	Nodo General	-
+1289	1680	Page-Mill-Rd-@-El-Camino-Real	Nodo General	-
+1290	1681	Page-Mill-Rd-@-Hanover-St	Nodo General	-
+1291	1682	Hillview-Ave-@-Coyote-Hill-Rd	Nodo General	-
+1292	1683	3475-Deer-Creek-Rd	Nodo General	-
+1293	1684	Oak-Creek-Apartments-(Across-Street-On-Sand-Hill-Rd)	Nodo General	-
+1294	1685	Stanford-West-Apartments-(Clark-Way-Across-Street-From-Office)	Nodo General	-
+1295	1686	Palo-Alto-Transit-Center-(Bus-Depot-Drop-Off)	Nodo General	-
+1296	1687	Palo-Alto-Transit-Center-(Bus-Depot-Pick-Up)	Nodo General	-
+1297	1688	Crate-&-Barrel-(Quarry-Rd)	Nodo General	-
+1298	1689	Sand-Hill-Rd-@-Clark-Way	Nodo General	-
+1299	1690	Oak-Creek-Apartments-(Sand-Hill-Rd)	Nodo General	-
+1300	1691	Sharon-Park-Shopping-Center-(Sand-Hill-Rd)	Nodo General	-
+1301	1692	Rosewood-Hotel-(In-Parking-Lot)	Nodo General	-
+1302	1693	Stanford-Guest-House-(In-Parking-Lot)	Nodo General	-
+1303	1694	Hoover-Pavilion-Garage-(Inside-Lot-1) 	Nodo General	-
+1304	1695	780-Welch-Rd 	Nodo General	-
+1305	1696	1000-Welch-Rd 	Nodo General	-
+1306	1697	Palo-Alto-Transit-Center-(Caltrain-Platform) 	Nodo General	-
+1307	1698	Medical-Center-(Quarry-Extension) 	Nodo General	-
+1308	1699	Y2E2-(Across-Street-On-Via-Ortega) 	Nodo General	-
+1309	1700	Tresidder-Union-(Lagunita-Dr)	Nodo General	-
+1310	1701	Vaden-Health-Center-(Campus-Dr)	Nodo General	-
+1311	1702	Visitor-Center-(Galvez-St)	Nodo General	-
+1312	1703	Town-and-Country-Village-(El-Camino-Real) 	Nodo General	-
+1313	1704	Galvez-St-@-El-Camino-Real 	Nodo General	-
+1314	1705	Alumni-Center-(Galvez-St)	Nodo General	-
+1315	1706	Wilbur-Field-Garage-(Campus-Dr)	Nodo General	-
+1316	1707	Medical-Center-(Roth-Way)	Nodo General	-
 1317	1708	Palo-Alto-Transit-Center-(Caltrain-Platform-South) 	9:27 AM	Medical-Center
 1318	1709	Stanford-Shopping-Center-(Quarry-Rd-Near-Pear-Ln)	9:30 AM	Medical-Center
 1319	1710	Stanford-Barn-(700-Welch-Rd) 	9:33 AM	Medical-Center
@@ -1376,52 +1376,52 @@ Fila	Nodo	Estación	Hora	M	Ruta
 1375	1766	801-Welch-Rd	12:04 PM	Medical-Center
 1376	1767	Hoover-Pavilion-(Quarry-Rd) 	12:08 PM	Medical-Center
 1377	1768	Palo-Alto-Transit-Center-(Caltrain-Platform-South)	12:15 PM	Medical-Center
-1378	1769	Li-Ka-Shing-Center	General	-
-1379	1770	Y2E2	General	-
-1380	1771	Main-Quad	General	-
-1381	1772	California-Ave	General	-
-1382	1773	1500-Page-Mill-Rd	General	-
-1383	1774	3170-Porter-Dr	General	-
-1384	1775	1050/1070-Arastradero-Rd	General	-
-1385	1776	3165-Porter-Dr	General	-
-1386	1777	Page-Mill-Rd	General	-
-1387	1778	El-Camino-Real	General	-
-1388	1779	Vi-at-Palo-Alto	General	-
-1389	1780	Stanford-West-Apartments	General	-
-1390	1781	Across-Street-From-Lucas-Center	General	-
-1391	1782	Stock-Farm-Garage	General	-
-1392	1783	Campus-Dr	General	-
-1393	1784	Schwab-Residential-Center	General	-
-1394	1785	Olmsted-Rd	General	-
-1395	1786	Bowdoin-St	General	-
-1396	1787	Graduate-School-of-Business	General	-
-1397	1788	Lucas-Center	General	-
-1398	1789	Palo-Alto-Transit-Center	General	-
-1399	1790	Stanford-Shopping-Center	General	-
-1400	1791	Stanford-Barn	General	-
-1401	1792	780-Welch-Rd	General	-
-1402	1793	1000-Welch-Rd	General	-
-1403	1794	Stanford-Hospital	General	-
-1404	1795	1101-Welch-Rd	General	-
-1405	1796	801-Welch-Rd	General	-
-1406	1797	Hoover-Pavilion	General	-
-1407	1798	Wells-Fargo	General	-
-1408	1799	Hillview-Ave	General	-
-1409	1800	3475-Deer-Creek-Rd	General	-
-1410	1801	Oak-Creek-Apartments	General	-
-1411	1802	Crate-&-Barrel	General	-
-1412	1803	Sand-Hill-Rd	General	-
-1413	1804	Sharon-Park-Shopping-Center	General	-
-1414	1805	Rosewood-Hotel	General	-
-1415	1806	Stanford-Guest-House	General	-
-1416	1807	Hoover-Pavilion-Garage	General	-
-1417	1808	780-Welch-Rd 	General	-
-1418	1809	1000-Welch-Rd 	General	-
-1419	1810	Medical-Center	General	-
-1420	1811	Tresidder-Union	General	-
-1421	1812	Vaden-Health-Center	General	-
-1422	1813	Visitor-Center	General	-
-1423	1814	Town-and-Country-Village	General	-
-1424	1815	Galvez-St	General	-
-1425	1816	Alumni-Center	General	-
-1426	1817	Wilbur-Field-Garage	General	-
+1378	1769	Li-Ka-Shing-Center	Nodo Final	-
+1379	1770	Y2E2	Nodo Final	-
+1380	1771	Main-Quad	Nodo Final	-
+1381	1772	California-Ave	Nodo Final	-
+1382	1773	1500-Page-Mill-Rd	Nodo Final	-
+1383	1774	3170-Porter-Dr	Nodo Final	-
+1384	1775	1050/1070-Arastradero-Rd	Nodo Final	-
+1385	1776	3165-Porter-Dr	Nodo Final	-
+1386	1777	Page-Mill-Rd	Nodo Final	-
+1387	1778	El-Camino-Real	Nodo Final	-
+1388	1779	Vi-at-Palo-Alto	Nodo Final	-
+1389	1780	Stanford-West-Apartments	Nodo Final	-
+1390	1781	Across-Street-From-Lucas-Center	Nodo Final	-
+1391	1782	Stock-Farm-Garage	Nodo Final	-
+1392	1783	Campus-Dr	Nodo Final	-
+1393	1784	Schwab-Residential-Center	Nodo Final	-
+1394	1785	Olmsted-Rd	Nodo Final	-
+1395	1786	Bowdoin-St	Nodo Final	-
+1396	1787	Graduate-School-of-Business	Nodo Final	-
+1397	1788	Lucas-Center	Nodo Final	-
+1398	1789	Palo-Alto-Transit-Center	Nodo Final	-
+1399	1790	Stanford-Shopping-Center	Nodo Final	-
+1400	1791	Stanford-Barn	Nodo Final	-
+1401	1792	780-Welch-Rd	Nodo Final	-
+1402	1793	1000-Welch-Rd	Nodo Final	-
+1403	1794	Stanford-Hospital	Nodo Final	-
+1404	1795	1101-Welch-Rd	Nodo Final	-
+1405	1796	801-Welch-Rd	Nodo Final	-
+1406	1797	Hoover-Pavilion	Nodo Final	-
+1407	1798	Wells-Fargo	Nodo Final	-
+1408	1799	Hillview-Ave	Nodo Final	-
+1409	1800	3475-Deer-Creek-Rd	Nodo Final	-
+1410	1801	Oak-Creek-Apartments	Nodo Final	-
+1411	1802	Crate-&-Barrel	Nodo Final	-
+1412	1803	Sand-Hill-Rd	Nodo Final	-
+1413	1804	Sharon-Park-Shopping-Center	Nodo Final	-
+1414	1805	Rosewood-Hotel	Nodo Final	-
+1415	1806	Stanford-Guest-House	Nodo Final	-
+1416	1807	Hoover-Pavilion-Garage	Nodo Final	-
+1417	1808	780-Welch-Rd 	Nodo Final	-
+1418	1809	1000-Welch-Rd 	Nodo Final	-
+1419	1810	Medical-Center	Nodo Final	-
+1420	1811	Tresidder-Union	Nodo Final	-
+1421	1812	Vaden-Health-Center	Nodo Final	-
+1422	1813	Visitor-Center	Nodo Final	-
+1423	1814	Town-and-Country-Village	Nodo Final	-
+1424	1815	Galvez-St	Nodo Final	-
+1425	1816	Alumni-Center	Nodo Final	-
+1426	1817	Wilbur-Field-Garage	Nodo Final	-

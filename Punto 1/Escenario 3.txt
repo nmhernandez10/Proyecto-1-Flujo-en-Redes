@@ -2,18 +2,14 @@ Pasa por estación Y2E2-(Via-Ortega)  a las 9:02 AM tomando la ruta 1050-Arastrad
 Trasbordo en estación Y2E2-(Via-Ortega)  a las 9:12 AM tomando la ruta Y
 Pasa por estación Y2E2-(Via-Ortega)  a las 9:12 AM tomando la ruta Y
 Pasa por estación Medical-Center-(Roth-Way) a las 9:14 AM tomando la ruta Y
-Pasa por estación 1336 a las 1727 Across-Street-From-Lucas-Center-(Welch-Rd)  tomando la ruta 10:04
-Trasbordo en estación 1337 a las 1728 Palo-Alto-Transit-Center-(Caltrain-Platform-South) tomando la ruta 10:19
-Pasa por estación Stanford-Shopping-Center-(Quarry-Rd-Near-Pear-Ln) a las 9:40 AM tomando la ruta X
-Trasbordo en estación 1336 a las 1727 Across-Street-From-Lucas-Center-(Welch-Rd)  tomando la ruta 10:04
-Pasa por estación 1337 a las 1728 Palo-Alto-Transit-Center-(Caltrain-Platform-South) tomando la ruta 10:19
-Trasbordo en estación 1338 a las 1729 Palo-Alto-Transit-Center-(Caltrain-Platform-South)  tomando la ruta 10:10
-Pasa por estación 1338 a las 1729 Palo-Alto-Transit-Center-(Caltrain-Platform-South)  tomando la ruta 10:10
-Trasbordo en estación 1339 a las 1730 Stanford-Shopping-Center-(Quarry-Rd-Near-Pear-Ln) tomando la ruta 10:13
 Pasa por estación Palo-Alto-Transit-Center-(Caltrain-Platform)  a las 9:25 AM tomando la ruta Y
 Trasbordo en estación Palo-Alto-Transit-Center-(Caltrain-Platform)  a las 9:37 AM tomando la ruta X
 Pasa por estación Palo-Alto-Transit-Center-(Caltrain-Platform)  a las 9:37 AM tomando la ruta X
 Pasa por estación Stanford-Shopping-Center-(Quarry-Rd-Near-Pear-Ln) a las 9:40 AM tomando la ruta X
+Trasbordo en la estación Stanford-Shopping-Center-(Quarry-Rd-Near-Pear-Ln) a las 9:43 AM tomando la ruta Medical Center
+Pasa por estación Stanford-Barn-(700-Welch-Rd) a las 9:46 AM tomando la ruta Medical Center
+Pasa por estación 780-Welch-Rd a las 9:47 AM tomando la ruta Medical Center
+Pasa por estación 1000-Welch-Rd a las 9:48 AM tomando la ruta Medical Center
 Pasa por estación Medical-Center-(Roth-Way) a las 9:14 AM tomando la ruta Y
 Pasa por estación Palo-Alto-Transit-Center-(Caltrain-Platform)  a las 9:25 AM tomando la ruta Y
 Este recorrido le toma un total de 46 minutos
