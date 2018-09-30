@@ -1,0 +1,19 @@
+Sale camion 1 hasta cliente 3
+No se utiliza el camion 2
+Sale camion 3 hasta cliente 6
+Sale camion 4 hasta cliente 9
+No se utiliza el camion 5
+No se utiliza el camion 6
+Sale camion 7 hasta cliente 4
+Sale camion 8 hasta cliente 8
+Se devuelve hacia la bodega desde cliente 1
+Se devuelve hacia la bodega desde cliente 2
+Se devuelve hacia la bodega desde cliente 3
+Va de cliente 4 hasta cliente 7
+Se devuelve hacia la bodega desde cliente 5
+Va de cliente 6 hasta cliente 5
+Va de cliente 7 hasta cliente 2
+Va de cliente 8 hasta cliente 10
+Va de cliente 9 hasta cliente 1
+Se devuelve hacia la bodega desde cliente 10
+El costo total de transporte sin incluir demoras es de $5931.33

@@ -22,7 +22,7 @@ granM:integer
 b: array(N,K) of integer
 
 !Variables de decision
-x: dynamic array (N,N,K) of mpvar
+x: dynamic array (N,N) of mpvar
 
 end-declarations
 
@@ -37,14 +37,14 @@ end-initializations
 procedure readadyacencia(strin:string, fila:integer, columna:integer)
 	num := parseint(strin,1)
 	if num>0 then
-		create(x(fila,columna,'helados'))
-		create(x(fila,columna,'vehiculos'))
+		create(x(fila,columna))
+		!create(x(fila,columna,'vehiculos'))
 		!x(fila,columna,'vehiculos') is_binary
 	end-if
 end-procedure
 
 procedure readCost(strin:string, fila:integer,columna:integer)
-	if exists(x(fila,columna,'helados')) then
+	if exists(x(fila,columna)) then
 		c(fila,columna):= parsereal(strin,1)
 	end-if
 end-procedure
@@ -91,23 +91,23 @@ initialize
 
 !Restriccion balance para ambos subproblemas
 forall(i in N, k in K) do
-	sum(j in N | exists(x(i,j,k)))x(i,j,k) -sum(j in N | exists(x(j,i,k)))x(j,i,k) = b(i,k)
+	sum(j in N | exists(x(i,j)))x(i,j) -sum(j in N | exists(x(j,i)))x(j,i) = b(i,'vehiculos')
 end-do
 
 !Restriccion subproblema vehiculos
 forall(i in N)do
-	sum(j in N | exists(x(i,j,'vehiculos'))and j<>19)x(i,j,'vehiculos')<=1
-	sum(j in N | exists(x(j,i,'vehiculos'))and j>1 and i<>19)x(j,i,'vehiculos')<=1
+	sum(j in N | exists(x(i,j))and j<>19)x(i,j)<=1
+	sum(j in N | exists(x(j,i))and j>1 and i<>19)x(j,i)<=1
 end-do
 
 !Restriccion de capacidad que une ambos subproblemas
-forall(i,j in N | exists(x(i,j,'helados')))do
-	x(i,j,'helados') <= x(i,j,'vehiculos')*C
-end-do
+!forall(i,j in N | exists(x(i,j,'helados')))do
+!	x(i,j,'helados') <= x(i,j,'vehiculos')*C
+!end-do
 
 
 
-Fo:= sum(i,j in N | exists(x(i,j,'vehiculos')))c(i,j)*x(i,j,'vehiculos')
+Fo:= sum(i,j in N | exists(x(i,j)))c(i,j)*x(i,j)
 
 minimize(Fo)
 end-model

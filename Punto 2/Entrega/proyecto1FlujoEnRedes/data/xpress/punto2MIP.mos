@@ -39,7 +39,7 @@ procedure readadyacencia(strin:string, fila:integer, columna:integer)
 	if num>0 then
 		create(x(fila,columna,'helados'))
 		create(x(fila,columna,'vehiculos'))
-		!x(fila,columna,'vehiculos') is_binary
+		x(fila,columna,'vehiculos') is_binary
 	end-if
 end-procedure
 
@@ -89,25 +89,44 @@ end-procedure
 
 initialize 
 
-!Restriccion balance para ambos subproblemas
+!Restriccion balance
 forall(i in N, k in K) do
 	sum(j in N | exists(x(i,j,k)))x(i,j,k) -sum(j in N | exists(x(j,i,k)))x(j,i,k) = b(i,k)
 end-do
 
-!Restriccion subproblema vehiculos
 forall(i in N)do
 	sum(j in N | exists(x(i,j,'vehiculos'))and j<>19)x(i,j,'vehiculos')<=1
-	sum(j in N | exists(x(j,i,'vehiculos'))and j>1 and i<>19)x(j,i,'vehiculos')<=1
+	sum(j in N | exists(x(j,i,'vehiculos')) and i<>19)x(j,i,'vehiculos')<=1
 end-do
 
-!Restriccion de capacidad que une ambos subproblemas
+!Restriccion de capacidad
 forall(i,j in N | exists(x(i,j,'helados')))do
 	x(i,j,'helados') <= x(i,j,'vehiculos')*C
 end-do
-
-
+!Restriccion 
 
 Fo:= sum(i,j in N | exists(x(i,j,'vehiculos')))c(i,j)*x(i,j,'vehiculos')
 
 minimize(Fo)
+
+procedure imprimirResultados
+	fopen("resultadosMIP.txt",F_OUTPUT)
+	forall(i,j in N| getsol(x(i,j,'vehiculos'))>0) do
+		if j=19 and i>V then
+			writeln("Se devuelve hacia la bodega desde cliente ",i-V)	
+		elif j=19 and i<=V then
+			writeln("No se utiliza el camion ",i)	
+		elif i<=V then
+			writeln("Sale camion ",i," hasta cliente ", j-V)				
+		else
+			writeln("Va de cliente ",i-V," hasta cliente ", j-V)		
+		end-if
+	end-do
+	writeln("El costo total de transporte sin incluir demoras es de $",getobjval)
+	fclose(F_OUTPUT)
+end-procedure
+
+imprimirResultados
+
+
 end-model

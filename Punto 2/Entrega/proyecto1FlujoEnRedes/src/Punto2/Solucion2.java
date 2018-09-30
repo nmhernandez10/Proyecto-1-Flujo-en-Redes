@@ -169,16 +169,8 @@ public class Solucion2 {
 	
 	public static void generarMatrices()
 	{
-		if(hayUnidadesdeSobra)
-		{
-			matrizAdyacencia = new int[V + n +1][V + n +1];
-			matrizCostos = new double[V + n +1][V + n +1];
-		}
-		else
-		{
-			matrizAdyacencia = new int[V + n +1][V + n];
-			matrizCostos = new double[V + n +1][V + n];
-		}
+		matrizAdyacencia = new int[V + n +1][V + n +1];
+		matrizCostos = new double[V + n +1][V + n +1];
 		for(int i =0; i<matrizAdyacencia.length;i++)
 		{
 			for(int j=0;j<matrizAdyacencia.length;j++)
@@ -192,21 +184,34 @@ public class Solucion2 {
 					if(matriz[0][j-V+1]>0)
 					{
 						matrizAdyacencia[i][j]=1;
-						matrizAdyacencia[j][i]=1;
+						matrizAdyacencia[j][i]=0;
 						
 						double costoTiempo=matrizTiempo[0][j-V+1]*costoTiemp;
 						double costoLongitud=matrizLongitud[0][j-V+1]*costoLong;
 						matrizCostos[i][j]=costoTiempo+costoLongitud+costoFijo;
-						matrizCostos[j][i]=costoTiempo+costoLongitud;
+					}
+					else
+					{
+						matrizAdyacencia[i][j]=1;
 					}
 				}
-				else if(i == matrizAdyacencia.length-1 && j != matrizAdyacencia.length-1 && hayUnidadesdeSobra)
+				else if(i == matrizAdyacencia.length-1 && j < V && hayUnidadesdeSobra)
 				{
 					matrizAdyacencia[j][i] = 1;
 					matrizAdyacencia[i][j] = 0;
 					matrizCostos[i][j] = 0;
 					matrizCostos[j][i] = 0;
 					
+				}
+				else if(i == matrizAdyacencia.length -1 && j>= V && j< matrizAdyacencia.length-1)
+				{
+					matrizAdyacencia[j][i]=1;	
+					matrizAdyacencia[i][j]=0;
+					
+					double costoTiempo=matrizTiempo[0][j-V+1]*costoTiemp;
+					double costoLongitud=matrizLongitud[0][j-V+1]*costoLong;
+					matrizCostos[i][j] = 0;
+					matrizCostos[j][i] = costoTiempo+costoLongitud;
 				}
 				else if(j==i)
 				{
@@ -227,17 +232,47 @@ public class Solucion2 {
 				
 			}
 		}
+		for(int i=0;i<V;i++)
+		{
+			matrizCostos[i][11]=matrizCostos[i][17]+matrizCostos[17][11];
+			matrizCostos[i][13]=matrizCostos[i][12]+matrizCostos[12][13];
+			
+		}
+		matrizCostos[11][matrizCostos.length-1] =matrizCostos[0][11]-costoFijo;
+		matrizCostos[13][matrizCostos.length-1] = matrizCostos[0][13]-costoFijo;
 	}
 
 	public static void imprimirEnArchivo()
 	{
 		String file ="./data/xpress/costos.txt";
 		String fileAd = "./data/xpress/adyacencias.txt";
+		String fileB = "./data/xpress/b.txt";
 		try {
 			BufferedWriter bw = new BufferedWriter(new FileWriter(file));
 			BufferedWriter bwA = new BufferedWriter(new FileWriter(fileAd));
+			BufferedWriter bwB =  new BufferedWriter(new FileWriter(fileB));
+			bwB.write("b:[");
 			for(int i=0; i<matrizCostos.length+1; i++)
 			{
+				if(i<matrizCostos.length)
+				{
+					bwB.newLine();
+					bwB.write("("+(i+1)+" "+"helados"+") "+b[i]);
+					
+					bwB.newLine();
+					if(i<V)
+					{
+						bwB.write("("+(i+1)+" "+"vehiculos"+") "+1);
+					}
+					else if( i==matrizCostos.length-1)
+					{
+						bwB.write("("+(i+1)+" "+"vehiculos"+") "+(-V));
+					}
+					else
+					{
+						bwB.write("("+(i+1)+" "+"vehiculos"+") "+0);
+					}
+				}
 				for(int j=0;j<matrizCostos.length+1;j++)
 				{
 					if(i==0)
@@ -299,8 +334,11 @@ public class Solucion2 {
 					}
 				}
 			}
+			bwB.newLine();
+			bwB.write("]");
 			bw.close();
 			bwA.close();
+			bwB.close();
 		} catch (IOException e) {
 			
 			e.printStackTrace();
