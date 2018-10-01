@@ -64,8 +64,8 @@ procedure readJ(j:string, fila:integer, columna:integer)
 	if not(j ="MA" or j = "0" or fila<1 or columna<1) then
 		create(x(fila,columna))		
 	end-if
-	
 end-procedure
+
 procedure readCost(j:string, fila:integer, columna:integer)
 	if not(j ="MC" or fila<1 or columna<1) then
 		if(exists(x(fila,columna))) then
@@ -102,7 +102,7 @@ end-procedure
 
 procedure initialize
 	!Matriz adyacencia
-	fopen("MA.txt",F_INPUT)
+	fopen("MAFM.txt",F_INPUT)
 		j:=""
 		contadorF:=0
 		contadorC:=-1
@@ -149,7 +149,7 @@ initialize
 
 !Restriccion de balance
 forall(i in N)do
-	sum(j in N)x(i,j) - sum(j in N)x(j,i) = b(i)
+	sum(j in N|exists(x(i,j)))x(i,j) - sum(j in N|exists(x(j,i)))x(j,i) = b(i)
 end-do
 
 !restriccion 
@@ -157,7 +157,7 @@ forall(i,j in N |exists(x(i,j)))do
 	x(i,j) <=u(i,j)
 end-do
 
-FO:=sum(i,j in N)c(i,j)*x(i,j)
+FO:=sum(i,j in N| exists(x(i,j)))c(i,j)*x(i,j)
 
 minimize(FO)
 
