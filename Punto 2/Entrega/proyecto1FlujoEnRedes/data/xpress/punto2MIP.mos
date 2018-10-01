@@ -5,21 +5,18 @@ uses "mmsystem";
 
 !sample declarations section
 declarations
-N: set of integer
-K: set of string
+N: set of integer	!Conjunto de nodos
+K: set of string	!Conjunto de comodities
 
 !parametros
-c: dynamic array(N,N) of real
-n: integer
-C:integer
-D: array(N) of integer
+c: dynamic array(N,N) of real	!Matriz de costos para cada nodo
+n: integer						!Numero de clientes
+C:integer						!Capacidad de vehiculo
 V: integer					!Numero de vehiculos a usar en el problema
-Mf:real
-Mv:real
-Mt:real
-Cm:real
-granM:integer
-b: array(N,K) of integer
+Mf:real						!Costo fijo por usar cada vehiculo
+Mv:real						!Costo por distancia
+Mt:real						!Costo por tiempo recorrido
+b: array(N,K) of integer	!necesario para ecuacion de balance
 
 !Variables de decision
 x: dynamic array (N,N,K) of mpvar
@@ -27,7 +24,7 @@ x: dynamic array (N,N,K) of mpvar
 end-declarations
 
 initializations from "parameters.txt"
-	n V Mf Mv Mt Cm C granM
+	n V Mf Mv Mt C
 end-initializations
 
 initializations from "b.txt"
@@ -94,6 +91,7 @@ forall(i in N, k in K) do
 	sum(j in N | exists(x(i,j,k)))x(i,j,k) -sum(j in N | exists(x(j,i,k)))x(j,i,k) = b(i,k)
 end-do
 
+!Restricción para vehículos
 forall(i in N)do
 	sum(j in N | exists(x(i,j,'vehiculos'))and j<>19)x(i,j,'vehiculos')<=1
 	sum(j in N | exists(x(j,i,'vehiculos')) and i<>19)x(j,i,'vehiculos')<=1
@@ -105,8 +103,9 @@ forall(i,j in N | exists(x(i,j,'helados')))do
 end-do
 !Restriccion 
 
+!Suma de los costos por transitar con cada vehiculo por cada nodo
 Fo:= sum(i,j in N | exists(x(i,j,'vehiculos')))c(i,j)*x(i,j,'vehiculos')
-
+!minimizar el costo total de atender la demanda
 minimize(Fo)
 
 procedure imprimirResultados
